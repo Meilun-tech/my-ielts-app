@@ -1,0 +1,147 @@
+{
+  "id": "P002",
+  "title": "A survivor’s story",
+  "difficulty": "Medium",
+  "timeLimit": 20,
+  "passageContent": "One native bird in New Zealand that has managed to survive the introduction of non-native species\n\nAs an island country with a fauna dominated by birds, New Zealand was once home to an owl species which is now extinct, the laughing owl, named for its distinctive cry. This bird was widespread throughout the islands when European settlers arrived in the middle of the 19th century and it remained in good numbers for some years thereafter. Where other native birds suffered from predation by the Polynesian rat, the laughing owl turned the tables and adapted its diet to include the rodent. It was also capable of catching and killing the other New Zealand owl, the morepork, and even larger birds, such as the weka. However, the laughing owl was wiped out around the beginning of the 20th century, its demise caused by specimen collectors, habitat changes, and non-native predators including cats and stoats. Surprisingly, it is the smaller owl, the morepork, that has managed to survive until this day.\n\nSpeckled dark brown, with yellow eyes and long tails, they are around 29 centimetres long from head to tail and 175 grams in weight. Moreporks have fringes on the edge of their feathers, so they can fly almost silently and not alert potential prey. They have acute hearing and their large eyes are very sensitive to light.\n\nMoreporks nest in tree hollows, in clumps of plants, or in cavities among rocks and roots. In the wild, moreporks usually start nesting in October, although two specimens have been recorded nesting in mid-winter, possibly stimulated by an ample food supply. The female lays up to three white eggs, which she incubates for 20 to 30 days. During this time, she rarely hunts, and the male brings food to her.\n\nOnce the chicks hatch, she stays mainly on the nest until the young owls are fully feathered. When hatched, chicks are covered in light grey down and have their eyes closed. The eyes do not open until the eighth day after hatching. They can fly at around 35 days.\n\nBy day, moreporks sleep in roosts. By night, they hunt a variety of animals – mainly large invertebrates including scarab and huhu beetles, moths, caterpillars and spiders. They also take small birds and mice. They can find suitable food in pine forest as well as native forest. A morepork uses its sharp talons to catch or stun its prey, which it then carries away in its bill. Moreporks are clever hunters, and birds such as robins, grey warblers and fantails can end up as their prey. In the day, these small birds sometimes mob drowsy moreporks and chase them away from their roosts; they force the sleepy predators to search for a more peaceful spot.\n\nMoreporks have proved to be ungracious hosts. Scientists trying to establish a population of plovers on Motuora Island in New Zealand’s Hauraki Gulf were mystified as to why only two birds survived out of the 75 placed there. The culprits turned out to be five pairs of moreporks that ate or chased away the new arrivals.\n\nAlthough moreporks are still considered to be relatively common, it is likely that numbers are in gradual decline due to predation and loss of habitat. As the female is a hole-nester, she is vulnerable to predators such as stoats and possums during the breeding season, and eggs and chicks will also be at risk from rats. The use of pesticides is another possible threat to the owls, though not a direct one. As moreporks are at the top of the food chain, they could be affected by an accumulative poison by consuming prey that has ingested poison.\n\nThe New Zealand Department of Conservation is taking steps to ensure the preservation of New Zealand’s only native owl. The department is involved in measuring the population of moreporks and has put transmitters on a number of birds to determine survival and mortality. As well as being New Zealand’s only native owl, the morepork has symbolic and spiritual importance, so in monitoring the birds it is hoped that the morepork will continue to survive and thrive.\n\nAt dusk, the melancholy sound of the morepork can be heard in forests and parks as it calls to other moreporks and claims territory. Its Māori name (ruru) echoes its two-part cry. In the tradition of the Māori people of New Zealand, the morepork, or ruru, was often seen as a careful guardian. A number of sayings referred to the bird’s alertness. As a bird of the night, it was associated with the spirit world. Moreporks were believed to act as messengers to the gods in the heavens, flying along spiritual paths in the sky. They were the mediums used to communicate with the gods. The occasional high, piercing call of the morepork signified bad news, but the lower-pitched and more common “ruru” call heralded good news.",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "tfng",
+      "stem": "Early European settlers made detailed studies of the morepork.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN",
+      "explanation": "文章只说“European settlers arrived ... in the middle of the 19th century”，并未提到他们对 morepork 做过“detailed studies”，既无肯定也无否定信息。"
+    },
+    {
+      "id": "Q2",
+      "type": "tfng",
+      "stem": "The Polynesian rat had a negative effect on the number of laughing owls.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "段 1 提到“Where other native birds suffered from predation by the Polynesian rat, the laughing owl turned the tables and adapted its diet to include the rodent”，说明波利尼西亚鼠成为了 laughing owl 的食物，并未“减少”其数量。"
+    },
+    {
+      "id": "Q3",
+      "type": "tfng",
+      "stem": "The laughing owl was larger than the morepork.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE",
+      "explanation": "段 1 末句：“it is the smaller owl, the morepork, that has managed to survive”；既然 morepork 更小，laughing owl 就更大。"
+    },
+    {
+      "id": "Q4",
+      "type": "tfng",
+      "stem": "Rats pose a risk to young moreporks.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE",
+      "explanation": "段 7：“eggs and chicks will also be at risk from rats”。老鼠确实威胁幼鸟。"
+    },
+    {
+      "id": "Q5",
+      "type": "tfng",
+      "stem": "The New Zealand Department of Conservation is hoping to limit the population of moreporks.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "段 8 说明保护部门正在“take steps to ensure the preservation of New Zealand’s only native owl”，目的是保育，而非“限制”数量。"
+    },
+    {
+      "id": "Q6",
+      "type": "tfng",
+      "stem": "Other bird species are frightened away when they hear the morepork’s cry.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN",
+      "explanation": "段 5 说白天其它小鸟会“mob” 昏昏欲睡的 morepork，把它们赶走；并未提到听到叫声就害怕 (frightened away by the cry)。"
+    },
+    {
+      "id": "Q7",
+      "type": "tfng",
+      "stem": "In Māori tradition, the low call of the morepork had negative associations.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "段 9：“the lower-pitched and more common ‘ruru’ call heralded good news”；低沉的叫声在 Māori 传统里带来好消息，而非负面含义。"
+    },
+    {
+      "id": "Q8",
+      "type": "filling",
+      "stem": "approximately 8 __________ in length",
+      "options": [],
+      "correctAnswer": "29 centimetres",
+      "explanation": "段 2：“they are around 29 centimetres long from head to tail”",
+      "context": "The Morepork\nAppearance\n• approximately 8 __________ in length"
+    },
+    {
+      "id": "Q9",
+      "type": "filling",
+      "stem": "nests in trees, plants or spaces in roots and 9 __________",
+      "options": [],
+      "correctAnswer": "rocks",
+      "explanation": "段 3：“in cavities among rocks and roots”",
+      "context": "The Morepork\nNesting\n• nests in trees, plants or spaces in roots and 9 __________"
+    },
+    {
+      "id": "Q10",
+      "type": "filling",
+      "stem": "transports its prey using its 10 __________",
+      "options": [],
+      "correctAnswer": "bill",
+      "explanation": "段 5：“which it then carries away in its bill”",
+      "context": "The Morepork\nHunting\n• transports its prey using its 10 __________"
+    },
+    {
+      "id": "Q11",
+      "type": "filling",
+      "stem": "can be chased away by other birds during the 11 __________",
+      "options": [],
+      "correctAnswer": "day",
+      "explanation": "段 5：“In the day, these small birds sometimes mob drowsy moreporks and chase them away”",
+      "context": "The Morepork\nHunting\n• transports its prey using its 10 __________ \n• can be chased away by other birds during the 11 __________"
+    },
+    {
+      "id": "Q12",
+      "type": "filling",
+      "stem": "attacked 12 __________ that had been introduced to Motuora Island",
+      "options": [],
+      "correctAnswer": "plovers",
+      "explanation": "段 6：“The culprits turned out to be five pairs of moreporks that ate or chased away the new arrivals”——这些新来者就是 plovers。",
+      "context": "The Morepork\nHunting\n• transports its prey using its 10 __________ \n• can be chased away by other birds during the 11 __________ \n• attacked 12 __________ that had been introduced to Motuora Island"
+    },
+    {
+      "id": "Q13",
+      "type": "filling",
+      "stem": "may be exposed to 13 __________ in their prey",
+      "options": [],
+      "correctAnswer": "poison",
+      "explanation": "段 7：“they could be affected by an accumulative poison by consuming prey that has ingested poison”",
+      "context": "The Morepork\nThreats\n• may be exposed to 13 __________ in their prey"
+    }
+  ]
+}

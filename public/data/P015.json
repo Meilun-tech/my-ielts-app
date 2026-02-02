@@ -1,0 +1,194 @@
+{
+    "id": "P015",
+    "title": "The Blockbuster Phenomenon: A New Museum Trend",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Museums in Australia, like other pleasure-giving public organizations, are adapting their activities so that they more closely reflect the marketplace.\n\nA Since the 1980s, the term ‘blockbuster’ has become the fashionable word for spectacular, high-profile museum exhibitions that have the ability to attract large crowds. A blockbuster is a ‘large-scale loan exhibition that people who normally don’t go to museums will stand in line for hours to see’ (Eisen 1984). Once the museum that created the exhibition has shown it to its local market, it can be offered to other organizations for a fee. This means that you can boost your own door takings and make money from boosting someone else’s door takings.\n\nB While partaking of the excitement of the blockbuster, visitors thus lured are likely to stay longer at the museum. Betty Churcher, when Director of the Australian National Gallery, summed up the new blockbuster creed as follows: ‘The bonus of the blockbuster exhibitions is that people come to see the blockbuster and they stay to look at the permanent collection, so you are getting broader exposure for your collection.’\n\nC Museums across the UK, USA, Canada and Australia currently operate under a system of plural funding: revenue raised through contributions by federal, state and/or local governments, combined with revenue raised through admission charges and other activities. Maintaining and increasing visitor levels is thus paramount and involves not only creating or hiring blockbuster exhibitions, but providing regular exhibition changes and innovations. In addition, the visiting public have become known as customers rather than visitors, and the skills that are valued in museums to keep the new customers coming through the door have changed. Curators are now administrators, and being a museum director no longer requires an Arts degree—but public relations skills are essential if the museum is going to compete with other museums to stage travelling exhibitions which draw huge crowds.\n\nD The convergence of museums, the heritage industry, tourism, profit-making and pleasure-giving has resulted in the new ‘museology’. This has given rise to much debate about whether it is appropriate to see museums primarily as tourist attractions. In literature from both the UK and USA, the words that are starting to appear in some descriptions of blockbusters are ‘less scholarly’, ‘non-elitist’ and ‘popularist’, while others extol the virtues of encouraging scholars to co-operate on projects, and to provide exhibitions that cater for a broad selection of the community rather than an elite sector. Whatever commentators may think, managers of museums worldwide are looking for artful ways to blend culture and commerce, and blockbuster exhibitions are at the top of the list.\n\nE But do blockbusters held in public institutions really create a surplus to fund other activities? If the bottom line is profit, then according to the records of many major museums blockbusters do make money. For museums in some countries, it may be the money that they require to replace parts of their collections or to fix buildings that are in need of attention. For some museums in Australia, it may be the opportunity to illustrate that they are attempting to pay their way by recovering part of their operating costs. Also, creating or hiring a blockbuster has many positive spin-offs: blockbusters mean crowds, and crowds are good for the local economy, providing increased trade for shops, hotels, restaurants, the transport industry and retailers. The argument that the arts provide sustained economic benefits has been well illustrated in impact studies in the USA and UK.\n\nF However, blockbusters require large capital expenditure and draw on resources across all branches of an organization, and the costs don’t end there. There is a Human Resource Management cost in addition to a measurable ‘real’ dollar cost. Receiving a touring exhibition draws resources from across functional management structures in a project-management style. Everyone—from general labourers to building services, front-of-house, technical, promotional, educational and administrative staff—is required to perform additional tasks. Furthermore, as an increasing number of institutions try their hand at increasing visitor numbers and memberships (and therefore revenue) by staging blockbuster exhibitions, it may be less likely that blockbusters will continue to provide a surplus to subsidize other activities due to the competitive nature of the market.\n\nG It has been illustrated in both the UK and USA that the blockbuster ideology has resulted in the false expectation that the momentum required to stage blockbusters can be maintained continually. Creating, mounting or hiring blockbusters is exhausting, with the real costs throughout an institution difficult to calculate. Secondly, as some analysts have argued, the ‘shopkeeping’ mentality and cost-benefit analysis, and a pure concentration on the bottom line, can squeeze substance out of an exhibition. Taking out substance can be a recipe for blockbuster failure and therefore financial failure.\n\nH Perhaps the best pathway to take is one that balances both blockbusters and regular exhibitions. However, this easy middle ground may only work if you have enough space, and have alternative sources of funding to continue to support the regular, less exciting fare. Perhaps the advice should be to make sure that you find out what your local community wants from you and make sure that your regular activities and exhibitions are more enduring.",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "choice",
+        "stem": "the reason why museum directors need to constantly alter and update their exhibits",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph C",
+        "explanation": "C段提到：“Maintaining and increasing visitor levels is thus paramount and involves... providing regular exhibition changes and innovations.”"
+      },
+      {
+        "id": "Q2",
+        "type": "choice",
+        "stem": "mention of the length of time people will queue to see a blockbuster",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph A",
+        "explanation": "A段：“people who normally don’t go to museums will stand in line for hours to see”"
+      },
+      {
+        "id": "Q3",
+        "type": "choice",
+        "stem": "terms that people have used when referring to blockbusters",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph D",
+        "explanation": "D段：“words that are starting to appear in some descriptions... are ‘less scholarly’, ‘non-elitist’ and ‘popularist’”"
+      },
+      {
+        "id": "Q4",
+        "type": "choice",
+        "stem": "the various ways that institutions like museums get financial support",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph C",
+        "explanation": "C段：“operate under a system of plural funding: revenue raised through contributions by federal, state and/or local governments...”"
+      },
+      {
+        "id": "Q5",
+        "type": "filling",
+        "stem": "These days, museum visitors tend to be referred to as __________.",
+        "options": [],
+        "correctAnswer": "customers",
+        "explanation": "C段：“the visiting public have become known as customers rather than visitors”",
+        "context": "Questions 5–8\nComplete the sentences below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\n5 These days, museum visitors tend to be referred to as __________."
+      },
+      {
+        "id": "Q6",
+        "type": "filling",
+        "stem": "Museum curators now need __________ rather than academic qualifications.",
+        "options": [],
+        "correctAnswer": "public relations skills",
+        "explanation": "C段：“being a museum director no longer requires an Arts degree—but public relations skills are essential”",
+        "context": "Questions 5–8\nComplete the sentences below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\n6 Museum curators now need __________ rather than academic qualifications."
+      },
+      {
+        "id": "Q7",
+        "type": "filling",
+        "stem": "The linking of a range of public institutions that entertain the public is known as __________.",
+        "options": [],
+        "correctAnswer": "museology",
+        "explanation": "D段：“The convergence of museums... has resulted in the new ‘museology’.”",
+        "context": "Questions 5–8\nComplete the sentences below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\n7 The linking of a range of public institutions that entertain the public is known as __________."
+      },
+      {
+        "id": "Q8",
+        "type": "filling",
+        "stem": "There is discussion about whether museums can be regarded in the same way as other __________.",
+        "options": [],
+        "correctAnswer": "tourist attractions",
+        "explanation": "D段：“debate about whether it is appropriate to see museums primarily as tourist attractions.”",
+        "context": "Questions 5–8\nComplete the sentences below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\n8 There is discussion about whether museums can be regarded in the same way as other __________."
+      },
+      {
+        "id": "Q9",
+        "groupId": "G3",
+        "type": "choice",
+        "stem": "Which TWO of the following are mentioned by the writer as advantages of blockbusters?",
+        "options": [
+          "A Some of the money they raise can be used for structural repairs.",
+          "B They can provide funds to help support amateur artists.",
+          "C Local services benefit from the extra business they bring about.",
+          "D They encourage overseas workers into the local area.",
+          "E They raise employee performance levels."
+        ],
+        "correctAnswer": "A",
+        "explanation": "E段：“fix buildings that are in need of attention” (A); “providing increased trade for shops, hotels...” (C)。注意：多选题答案通常按字母顺序排列或同时包含。"
+      },
+      {
+        "id": "Q10",
+        "groupId": "G3",
+        "type": "choice",
+        "stem": "Which TWO of the following are mentioned by the writer as advantages of blockbusters?",
+        "options": [
+          "A Some of the money they raise can be used for structural repairs.",
+          "B They can provide funds to help support amateur artists.",
+          "C Local services benefit from the extra business they bring about.",
+          "D They encourage overseas workers into the local area.",
+          "E They raise employee performance levels."
+        ],
+        "correctAnswer": "C",
+        "explanation": "同上，E段提到带动当地服务业。"
+      },
+      {
+        "id": "Q11",
+        "groupId": "G4",
+        "type": "choice",
+        "stem": "Which THREE of the following are mentioned by the writer as disadvantages of blockbusters?",
+        "options": [
+          "A They do not suit museum management styles.",
+          "B Specialist business advice has to be paid for.",
+          "C They involve an increased workload for personnel.",
+          "D They do not increase overall annual visitor numbers.",
+          "E They are very tiring to put on.",
+          "F What is popular in one country may not be popular in another.",
+          "G The content can be weakened through financial pressure."
+        ],
+        "correctAnswer": "C",
+        "explanation": "F段：“Everyone... is required to perform additional tasks” -> increased workload (C)。"
+      },
+      {
+        "id": "Q12",
+        "groupId": "G4",
+        "type": "choice",
+        "stem": "Which THREE of the following are mentioned by the writer as disadvantages of blockbusters?",
+        "options": [
+          "A They do not suit museum management styles.",
+          "B Specialist business advice has to be paid for.",
+          "C They involve an increased workload for personnel.",
+          "D They do not increase overall annual visitor numbers.",
+          "E They are very tiring to put on.",
+          "F What is popular in one country may not be popular in another.",
+          "G The content can be weakened through financial pressure."
+        ],
+        "correctAnswer": "E",
+        "explanation": "G段：“Creating... is exhausting” -> tiring (E)。"
+      },
+      {
+        "id": "Q13",
+        "groupId": "G4",
+        "type": "choice",
+        "stem": "Which THREE of the following are mentioned by the writer as disadvantages of blockbusters?",
+        "options": [
+          "A They do not suit museum management styles.",
+          "B Specialist business advice has to be paid for.",
+          "C They involve an increased workload for personnel.",
+          "D They do not increase overall annual visitor numbers.",
+          "E They are very tiring to put on.",
+          "F What is popular in one country may not be popular in another.",
+          "G The content can be weakened through financial pressure."
+        ],
+        "correctAnswer": "G",
+        "explanation": "G段：“squeeze substance out... recipe for blockbuster failure” -> content weakened (G)。"
+      }
+    ]
+  }

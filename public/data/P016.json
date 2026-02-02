@@ -1,0 +1,141 @@
+{
+    "id": "P016",
+    "title": "The Impact of the Potato",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Jeff Chapman relates the story of history’s most important vegetable\n\nThe potato was first cultivated in South America between three and seven thousand years ago, though scientists believe they may have grown wild in the region as long as 13,000 years ago. The genetic patterns of potato distribution indicate that the potato probably originated in the mountainous west-central region of the continent.\n\nEarly Spanish chroniclers who misused the Indian word batata (sweet potato) as the name for the potato noted the importance of the tuber to the Incan Empire. The Incas had learned to preserve the potato for storage by dehydrating and mashing potatoes into a substance called chuño, which could be stored in a room for up to 10 years, providing excellent insurance against possible crop failures. As well as using the food as a staple crop, the Incas thought potatoes made childbirth easier and used them to treat injuries.\n\nThe Spanish conquistadors first encountered the potato when they arrived in Peru in 1532 in search of gold, and noted Inca miners eating chuño. At the time the Spaniards failed to realize that the potato represented a far more important treasure than either silver or gold, but they did gradually begin to use potatoes as basic rations aboard their ships. After the arrival of the potato in Spain in 1570, a few Spanish farmers began to cultivate them on a small scale, mostly as food for livestock.\n\nThroughout Europe, potatoes were regarded with suspicion, distaste and fear. Generally considered to be unfit for human consumption, they were used only as animal fodder and sustenance for the starving. In northern Europe, potatoes were primarily grown in botanical gardens as an exotic novelty. Even peasants refused to eat from a plant that produced ugly, misshapen tubers and that had come from a heathen civilization. Some felt that the potato plant’s resemblance to plants in the nightshade family hinted that it was the creation of witches or devils.\n\nIn meat-loving England, farmers and urban workers regarded potatoes with extreme distaste. In 1662, the Royal Society recommended the cultivation of the tuber to the English government and the nation, but this recommendation had little impact. Potatoes did not become a staple until, during the food shortages associated with the Revolutionary Wars, the English government began to officially encourage potato cultivation. In 1795, the Board of Agriculture issued a pamphlet entitled “Hints Respecting the Culture and Use of Potatoes”; this was followed shortly by pro-potato editorials and potato recipes in The Times. Gradually, the lower classes began to follow the lead of the upper classes.\n\nA similar pattern emerged across the English Channel in the Netherlands, Belgium and France. While the potato slowly gained ground in eastern France (where it was often the only crop remaining after marauding soldiers plundered wheat fields and vineyards), it did not achieve widespread acceptance until the late 1700s. The peasants remained suspicious, in spite of a 1771 paper from the Faculté de Paris testifying that the potato was not harmful but beneficial. The people began to overcome their distaste when the plant received the royal seal of approval: Louis XVI began to sport a potato flower in his buttonhole, and Marie-Antoinette wore a purple potato blossom in her hair.\n\nFrederick the Great of Prussia saw the potato’s potential to help feed his nation and lower the price of bread, but faced the challenge of overcoming the people’s prejudice against the plant. When he issued a 1774 order for his subjects to grow potatoes as protection against famine, the town of Kolberg replied: “The things have neither smell nor taste, not even the dogs will eat them, so what use are they to us?” Trying a less direct approach to encourage his subjects to begin planting potatoes, Frederick used a bit of reverse psychology: he planted a royal field of potato plants and stationed a heavy guard to protect this field from thieves. Nearby peasants naturally assumed that anything worth guarding was worth stealing, and so sneaked into the field and snatched the plants for their home gardens. Of course, this was entirely in line with Frederick’s wishes.\n\nHistorians debate whether the potato was primarily a cause or an effect of the huge population boom in industrial-era England and Wales. Prior to 1800, the English diet had consisted primarily of meat, supplemented by bread, butter and cheese. Few vegetables were consumed, most vegetables being regarded as nutritionally worthless and potentially harmful. This view began to change gradually in the late 1700s. The Industrial Revolution was drawing an ever-increasing percentage of the populace into crowded cities, where only the richest could afford homes with ovens or coal storage rooms, and people were working 12–16-hour days which left them with little time or energy to prepare food. High-yielding, easily prepared potato crops were the obvious solution to England’s food problems.\n\nWhereas most of their neighbours regarded the potato with suspicion and had to be persuaded to use it by the upper classes, the Irish peasantry embraced the tuber more passionately than anyone since the Incas. The potato was well suited to the Irish soil and climate, and its high yield suited the most important concern of most Irish farmers: to feed their families.\n\nThe most dramatic example of the potato’s potential to alter population patterns occurred in Ireland, where the potato had become a staple by 1800. The Irish population doubled to eight million between 1780 and 1841, this without any significant expansion of industry or reform of agricultural techniques beyond the widespread cultivation of the potato. Though Irish landholding practices were primitive in comparison with those of England, the potato’s high yields allowed even the poorest farmers to produce more healthy food than they needed with scarcely any investment or hard labour. Even children could easily plant, harvest and cook potatoes, which of course required no threshing, curing or grinding. The abundance provided by potatoes greatly decreased infant mortality and encouraged early marriage.",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "tfng",
+        "stem": "Early Spanish chroniclers called the potato by the Incan name ‘chuño’.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "第二段：Early Spanish chroniclers who misused the Indian word batata (sweet potato) as the name for the potato... 他们使用的是 batata 而非 chuño。"
+      },
+      {
+        "id": "Q2",
+        "type": "tfng",
+        "stem": "The purpose of the Spanish coming to Peru was to find potatoes.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "第三段：The Spanish conquistadors ... arrived in Peru in 1532 in search of gold..."
+      },
+      {
+        "id": "Q3",
+        "type": "tfng",
+        "stem": "The Spanish believed that the potato had the same nutrients as other vegetables.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "文中未提及西班牙人对土豆与其他蔬菜营养成分的比较看法。"
+      },
+      {
+        "id": "Q4",
+        "type": "tfng",
+        "stem": "Peasants at that time did not like to eat potatoes because they were ugly.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "第四段：Even peasants refused to eat from a plant that produced ugly, misshapen tubers..."
+      },
+      {
+        "id": "Q5",
+        "type": "tfng",
+        "stem": "The popularity of potatoes in the UK was due to food shortages during the war.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "第五段：Potatoes did not become a staple until, during the food shortages associated with the Revolutionary Wars, the English government began to officially encourage potato cultivation."
+      },
+      {
+        "id": "Q6",
+        "type": "filling",
+        "stem": "In France, people began to overcome their disgust towards potatoes because the King put a potato ________ in his buttonhole.",
+        "options": [],
+        "correctAnswer": "flower",
+        "explanation": "第六段：Louis XVI began to sport a potato flower in his buttonhole...",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n6 In France, people began to overcome their disgust towards potatoes because the King put a potato ________ in his buttonhole."
+      },
+      {
+        "id": "Q7",
+        "type": "filling",
+        "stem": "Frederick realised the potential of the potato, but he had to handle the ________ from ordinary people.",
+        "options": [],
+        "correctAnswer": "prejudice",
+        "explanation": "第七段：...faced the challenge of overcoming the people’s prejudice against the plant.",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n7 Frederick realised the potential of the potato, but he had to handle the ________ from ordinary people."
+      },
+      {
+        "id": "Q8",
+        "type": "filling",
+        "stem": "The King of Prussia adopted a form of ________ psychology to make people accept potatoes.",
+        "options": [],
+        "correctAnswer": "reverse",
+        "explanation": "第七段：Frederick used a bit of reverse psychology...",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n8 The King of Prussia adopted a form of ________ psychology to make people accept potatoes."
+      },
+      {
+        "id": "Q9",
+        "type": "filling",
+        "stem": "Before 1800, English people preferred eating ________ with bread, butter and cheese.",
+        "options": [],
+        "correctAnswer": "meat",
+        "explanation": "第八段：Prior to 1800, the English diet had consisted primarily of meat, supplemented by bread, butter and cheese.",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n9 Before 1800, English people preferred eating ________ with bread, butter and cheese."
+      },
+      {
+        "id": "Q10",
+        "type": "filling",
+        "stem": "The obvious way to deal with England’s food problems was high-yielding potato ________.",
+        "options": [],
+        "correctAnswer": "crops",
+        "explanation": "第八段：High-yielding, easily prepared potato crops were the obvious solution to England’s food problems.",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n10 The obvious way to deal with England’s food problems was high-yielding potato ________."
+      },
+      {
+        "id": "Q11",
+        "type": "filling",
+        "stem": "The Irish ________ and climate suited potatoes well.",
+        "options": [],
+        "correctAnswer": "soil",
+        "explanation": "第九段：The potato was well suited to the Irish soil and climate...",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n11 The Irish ________ and climate suited potatoes well."
+      },
+      {
+        "id": "Q12",
+        "type": "filling",
+        "stem": "Between 1780 and 1841, thanks to the ________ of the potato, the Irish population doubled to eight million.",
+        "options": [],
+        "correctAnswer": "cultivation",
+        "explanation": "第十段：...thanks to the widespread cultivation of the potato.",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n12 Between 1780 and 1841, thanks to the ________ of the potato, the Irish population doubled to eight million."
+      },
+      {
+        "id": "Q13",
+        "type": "filling",
+        "stem": "The potato’s high yields helped the poorest farmers to produce more healthy food almost without ________.",
+        "options": [],
+        "correctAnswer": "investment",
+        "explanation": "第十段：...produce more healthy food ... with scarcely any investment or hard labour.",
+        "context": "Questions 6–13\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\n13 The potato’s high yields helped the poorest farmers to produce more healthy food almost without ________."
+      }
+    ]
+  }

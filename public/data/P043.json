@@ -1,0 +1,187 @@
+{
+    "id": "P043",
+    "title": "Learning from the Romans",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "How an ancient building material is influencing modern construction\n\nA In a quest to make concrete more durable and sustainable, an international team of geologists and engineers has found inspiration in the concrete used by the ancient Romans. The chemical secrets of Roman concrete have been uncovered in samples taken from a concrete Roman breakwater. A breakwater is a barrier that is built out into the sea to protect coasts and harbors from the force of waves. This particular breakwater has spent the last 2,000 years submerged in seawater. The international team of researchers that collected the samples was led by Paulo Monteiro, a professor of civil and environmental engineering at the University of California, Berkeley. Analysis of samples from the ancient underwater site in Pozzuoli Bay near Naples in Italy, and pinpointed why the best Roman concrete was superior to most modern concrete.\n\nB Concrete was the Roman Empire’s construction material of choice. It was used in land monuments such as the Pantheon in Rome, as well as in underwater and partially underwater coastal and harbor structures. Monteiro and his team were particularly interested in how the coastal and harbor structures endured the unforgiving saltwater environment. Chemical analysis of Roman concrete showed that it differs from the modern kind in several ways. One is the content of the cement that binds the material in the concrete. The most commonly used cement in recent decades has been Portland cement. Portland cement is a compound of calcium, silicates, and hydrates (C-S-H). However, analysis of Roman concrete shows that it contains a significantly different cement. Roman cement contains aluminum, which is not found in Portland cement, and less silicon than is found in Portland cement. The resulting calcium-aluminum-silicate-hydrate (C-A-S-H) is an exceptionally stable cement.\n\nC The recipe for the contents of Roman concrete was first described around 30 BC by Vitruvius, an engineer for the Roman Emperor Augustus. Volcanic ash was one of the ingredients, and it is now understood that this is crucial, as it is volcanic ash that contains the aluminum that ultimately gives Roman concrete its great durability. The Romans devised an efficient method of making concrete for coastal structures. They combined volcanic ash with lime, which added the calcium to the mix. This was then packed, together with stones and chunks of rock, into wooden molds, which were then immersed in seawater. The seawater instantly triggered a hot chemical reaction. The lime was hydrated by the seawater, which means that it incorporated water molecules into its structure, and reacted with the volcanic ash to cement the whole mixture together. This reaction formed the concrete that was used to build some of the most enduring structures in Western civilization.\n\nD According to Marie Jackson, a member of the research team, Roman concrete is one of the most durable construction materials on the planet, and that was no accident. Shipping was the lifeline of political, economic, and military stability for the Roman Empire, so constructing harbors that would last was critical. ‘Over time, the Romans used less and less concrete.’ ‘As the Roman Empire declined, and shipping declined, the need for the seawater concrete declined,’ said Jackson. ‘You could also argue that the original structures were built so well that, once they were in place, they didn’t need to be replaced,’ she added.\n\nE Producing Roman concrete also left a smaller carbon footprint than its modern counterpart. ‘It’s not that modern concrete isn’t good—it’s so good we use 19 billion tons of it a year,’ says Monteiro. ‘The problem is that manufacturing Portland cement accounts for seven percent of the carbon dioxide that industry puts into the air.’ Portland cement holds most modern concrete together. However, making Portland cement releases carbon dioxide into the atmosphere from burning fuel in order to heat a mix of limestone and clays to 1,450 degrees Celsius. The production of Roman concrete, however, was much cleaner, as less heat was needed. A temperature that was a third lower than that required for making Portland cement was sufficient for making Roman concrete.\n\nF Some modern concrete no longer contains Portland cement; instead, fly ash is used, which causes fewer greenhouse gas emissions. Fly ash is a waste product from burning coal, and the researchers are investigating whether volcanic ash would be a good, large-volume replacement in countries that cannot access fly ash easily. ‘There is not enough fly ash in this world to replace half of the Portland cement being used,’ said Monteiro. ‘Many countries don’t have fly ash, so the idea is to find alternative local materials that will work, including the kind of volcanic ash that Romans used. Using these alternatives could replace 40 percent of the world’s demand for Portland cement.’\n\nG Cutting greenhouse gas emissions is one powerful incentive for finding a better way to provide the concrete the world needs; another is the need for stronger, longer-lasting buildings, bridges, and other structures. ‘In the middle 20th century, concrete structures were designed to last 50 years, and a lot of them are on borrowed time,’ Monteiro says. ‘Now we design buildings to last 100 to 120 years.’ Yet Roman harbor installations have survived 2,000 years of chemical attack from seawater and wave action. Stronger, longer-lasting modern concrete may be the legacy of a deeper understanding of how the Romans made their incomparable concrete.",
+    "questions": [
+      {
+        "id": "Q14",
+        "type": "choice",
+        "stem": "an opinion on why the Romans reduced the amount of concrete they made for use in seawater",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph D",
+        "explanation": "D段：“As the Roman Empire declined, and shipping declined, the need for the seawater concrete declined...” 解释了减少原因。"
+      },
+      {
+        "id": "Q15",
+        "type": "choice",
+        "stem": "a list of the contents of both Portland and Roman cement",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph B",
+        "explanation": "B段列举了波特兰水泥（calcium, silicates, hydrates）和罗马水泥（aluminum, less silicon）的成分。"
+      },
+      {
+        "id": "Q16",
+        "type": "choice",
+        "stem": "an argument for finding substitutes for a limited resource that is used in making cement",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph F",
+        "explanation": "F段提到：“There is not enough fly ash... to replace half of the Portland cement... the idea is to find alternative local materials...”"
+      },
+      {
+        "id": "Q17",
+        "type": "choice",
+        "stem": "information about the structure from which the scientists took their Roman concrete samples",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph A",
+        "explanation": "A段：“samples taken from a concrete Roman breakwater... submerged in seawater...”"
+      },
+      {
+        "id": "Q18",
+        "type": "choice",
+        "stem": "a comparison of the environmental impacts of making modern and Roman concrete",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph E",
+        "explanation": "E段对比了制造波特兰水泥释放大量CO2与罗马混凝土生产更清洁（much cleaner, less heat needed）。"
+      },
+      {
+        "id": "Q19",
+        "type": "choice",
+        "stem": "a comparison of the durability of Roman concrete with concrete produced today",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph G",
+        "explanation": "G段：“modern concrete structures... last 50 years... Roman harbor installations have survived 2,000 years...”"
+      },
+      {
+        "id": "Q20",
+        "type": "choice",
+        "stem": "details of how the Romans used seawater to make concrete",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G"
+        ],
+        "correctAnswer": "Paragraph C",
+        "explanation": "C段详细描述了混合物被 immersed in seawater，且 seawater instantly triggered a hot chemical reaction。"
+      },
+      {
+        "id": "Q21",
+        "groupId": "G8",
+        "type": "choice",
+        "stem": "Which TWO of the following statements about fly ash are true?",
+        "options": [
+          "A Fly ash results in less damage to the environment than Portland cement.",
+          "B Fly ash was used by the Romans as an alternative to volcanic ash.",
+          "C Fly ash is already used in the production of some concrete.",
+          "D All countries have access to fly ash resources.",
+          "E Fly ash will soon replace volcanic ash."
+        ],
+        "correctAnswer": "A",
+        "explanation": "F段：“fly ash is used, which causes fewer greenhouse gas emissions.” -> A 正确。"
+      },
+      {
+        "id": "Q22",
+        "groupId": "G8",
+        "type": "choice",
+        "stem": "Which TWO of the following statements about fly ash are true?",
+        "options": [
+          "A Fly ash results in less damage to the environment than Portland cement.",
+          "B Fly ash was used by the Romans as an alternative to volcanic ash.",
+          "C Fly ash is already used in the production of some concrete.",
+          "D All countries have access to fly ash resources.",
+          "E Fly ash will soon replace volcanic ash."
+        ],
+        "correctAnswer": "C",
+        "explanation": "F段：“Some modern concrete no longer contains Portland cement; instead, fly ash is used” -> C 正确。"
+      },
+      {
+        "id": "Q23",
+        "type": "filling",
+        "stem": "This is because a temperature of 1,450 degrees Celsius is needed to combine clays and 23 ________ to make Portland cement.",
+        "options": [],
+        "correctAnswer": "limestone",
+        "explanation": "E段：“heat a mix of limestone and clays to 1,450 degrees Celsius.”",
+        "context": "The environmental effects of concrete production\nThis is because a temperature of 1,450 degrees Celsius is needed to combine clays and 23 ________ to make Portland cement."
+      },
+      {
+        "id": "Q24",
+        "type": "filling",
+        "stem": "This level of heat was reduced by a 24 ________ when making Roman concrete.",
+        "options": [],
+        "correctAnswer": "third",
+        "explanation": "E段：“A temperature that was a third lower than that required...”",
+        "context": "The environmental effects of concrete production\nThis level of heat was reduced by a 24 ________ when making Roman concrete."
+      },
+      {
+        "id": "Q25",
+        "type": "filling",
+        "stem": "Needing less heat meant less 25 ________ had to be burned and less carbon dioxide was produced.",
+        "options": [],
+        "correctAnswer": "fuel",
+        "explanation": "E段：“burning fuel in order to heat...”",
+        "context": "The environmental effects of concrete production\nNeeding less heat meant less 25 ________ had to be burned and less carbon dioxide was produced."
+      },
+      {
+        "id": "Q26",
+        "type": "filling",
+        "stem": "According to Monteiro, when considering the amount of carbon dioxide emitted by 26 ________, seven percent of it comes from the manufacture of Portland cement.",
+        "options": [],
+        "correctAnswer": "industry",
+        "explanation": "E段：“seven percent of the carbon dioxide that industry puts into the air.”",
+        "context": "The environmental effects of concrete production\nAccording to Monteiro, when considering the amount of carbon dioxide emitted by 26 ________, seven percent of it comes from the manufacture of Portland cement."
+      }
+    ]
+  }

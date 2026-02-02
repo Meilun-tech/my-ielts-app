@@ -1,0 +1,162 @@
+{
+  "id": "P004",
+  "title": "Ambergris",
+  "difficulty": "Medium",
+  "timeLimit": 20,
+  "passageContent": "What is it and where does it come from?\n\nIn the ancient world, the waxy grey substance we now refer to as ambergris was highly prized for its medicinal properties, and was widely used as a spice, which was believed to be an aphrodisiac when added to food or wine. Ambergris itself is pleasantly aromatic, especially when warmed, and it was also highly valued as a fixing agent in the making of perfume, since it enabled a scent to retain its fragrance for much longer than might otherwise have been possible. Most ambergris was found in the form of lumps floating on the surface of the sea, or washed up on the shores of tropical and temperate oceans. At one time, ambergris was worth its weight in gold, but there was much confusion about its origins.\n\nAmbergris was known to the Arabs as ‘ambar’ and was originally called amber in the West in the Middle Ages. This eventually led to further confusion in the popular mind between ambergris and true amber, the mineral known to mineralogists as succinite, which is actually fossilised tree resin, and generally yellow in colour. Both substances were rare and costly, and both were associated with the sea, largely because for Europeans the most common source of amber was the shores of the Baltic. In Chapter 92 of Moby Dick, the American writer Herman Melville pours scorn on those who believed the two substances to be the same: ‘Though the word ambergris is but the French compound for grey amber, yet the two substances are quite distinct. For amber, though at times found on the sea-coast, is also dug up in some far-inland soils, whereas ambergris is never found except upon the sea. Besides, amber is a hard, transparent, brittle, odourless substance, used for mouth-pieces to pipes, for beads and ornaments; but ambergris is soft, waxy, and so highly fragrant that it is largely used in perfumery.’\n\nMoby Dick was published in 1851, by which time the mystery of the origins of ambergris had been resolved by the scientific community. In 1783, the botanist Joseph Banks, who had accompanied Captain James Cook on his voyages of discovery in the Pacific, presented a paper to the Royal Society of London by the German physician Dr Franz Xavier Schwediawer in which it was conclusively proved that ambergris came from sperm whales. In this, he was confirming an observation made in the 13th century by the great Venetian traveller Marco Polo who, while on the island of Socotra in the Indian Ocean, had witnessed a sperm whale vomiting up ambergris. But whereas Marco Polo imagined that the whale had swallowed the lump in the depths of the sea, Schwediawer showed that the origin of the material was inside the whale itself.\n\nThe sperm whale is the largest of the odontocetes, or toothed whales. Males can grow up to 20 metres in length. Melville described the sperm whale as ‘the king of whales’, and his novel Moby Dick is based on the pursuit of one such creature. Sperm whales are renowned for their ability to dive to great depths, possibly as far as 3 000 metres below the surface, and for remaining underwater for periods of two hours or more in pursuit of their favourite prey, the giant squid.\n\nIt is from the problems the whales have in digesting the beaks of such creatures that ambergris has its origins. The beak is sharp and irritates the whale’s lower intestine, which responds by producing a black, foul-smelling liquid. It is not clear to scientists whether this secretion should be considered a normal response by the whale’s digestive system or a pathological one, but from time to time large quantities of the liquid are vomited up by the whale. Once outside the whale’s body and exposed to air, the substance hardens, acquiring the waxy, greyish and pleasantly aromatic characteristics of ambergris. Often the beaks of squid are still found embedded in lumps of ambergris, some of which can weigh several hundred kilograms. Melville took some delight in contrasting the origins of ambergris with the high value placed upon it by refined society: ‘Who would think, then, that such fine ladies and gentlemen should regale themselves with an essence found in the inglorious bowels of a sick whale!’\n\nSperm whales were ruthlessly pursued by commercial whalers in the 19th and 20th centuries. In 1963-64 alone, almost 30 000 individuals were killed, and only the imposition of a ban on the hunting of sperm whales in 1984 saved the species from extinction. Ambergris was by far the most valuable product to be extracted during the processing of the whales’ carcasses, and over 90 per cent of the annual worldwide total was acquired in this way, as a by-product of commercial whaling. However, even before the ban on hunting sperm whales was imposed, the 1972 Marine Mammal Protection Act had prohibited trade in ambergris. Just as petroleum and plastic products were replacing other natural products of whaling, so ambergris was supplanted in the making of perfume by other materials, some natural and some synthetic in origin. Nevertheless, it is possible that, as sperm-whale populations recover to their former numbers in the wild, so the sight of lumps of ambergris washed ashore along the tide-line will once again become a familiar one to beach-combers the world over.",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "choice",
+      "stem": "very expensive",
+      "options": [
+        "A ambergris only",
+        "B amber only",
+        "C both ambergris and amber",
+        "D neither ambergris nor amber"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Para 1: “ambergris was worth its weight in gold.” Para 2: “Both substances were rare and costly.” -> 两者都昂贵。"
+    },
+    {
+      "id": "Q2",
+      "type": "choice",
+      "stem": "a food flavouring",
+      "options": [
+        "A ambergris only",
+        "B amber only",
+        "C both ambergris and amber",
+        "D neither ambergris nor amber"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Para 1: “… was widely used as a spice … when added to food or wine.” 文中未提及 amber 用作调味。"
+    },
+    {
+      "id": "Q3",
+      "type": "choice",
+      "stem": "used as currency",
+      "options": [
+        "A ambergris only",
+        "B amber only",
+        "C both ambergris and amber",
+        "D neither ambergris nor amber"
+      ],
+      "correctAnswer": "D",
+      "explanation": "全文无任何有关 ambergris 或 amber 被当作货币的描述。"
+    },
+    {
+      "id": "Q4",
+      "type": "choice",
+      "stem": "sweet-smelling",
+      "options": [
+        "A ambergris only",
+        "B amber only",
+        "C both ambergris and amber",
+        "D neither ambergris nor amber"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Para 1: “Ambergris itself is pleasantly aromatic …” Para 2: 对 amber 描述为 “odourless”。"
+    },
+    {
+      "id": "Q5",
+      "type": "choice",
+      "stem": "referred to by Herman Melville",
+      "options": [
+        "A ambergris only",
+        "B amber only",
+        "C both ambergris and amber",
+        "D neither ambergris nor amber"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Para 2 引 Melville 语: “Though the word ambergris … For amber, though at times found on the sea-coast …” -> 他同时提到两种物质。"
+    },
+    {
+      "id": "Q6",
+      "type": "choice",
+      "stem": "can be seen through",
+      "options": [
+        "A ambergris only",
+        "B amber only",
+        "C both ambergris and amber",
+        "D neither ambergris nor amber"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Para 2: “amber is a hard, transparent, brittle …” Ambergris 描述为 “soft, waxy”，无透明特性。"
+    },
+    {
+      "id": "Q7",
+      "type": "filling",
+      "stem": "Ambergris is formed in whales because of problems digesting the 7 ________ of giant squid.",
+      "options": [],
+      "correctAnswer": "beaks",
+      "explanation": "Para 5: “It is from the problems the whales have in digesting the beaks of such creatures that ambergris has its origins.”",
+      "context": "How ambergris is formed\nAmbergris is formed in whales because of problems digesting the 7 ________ of giant squid."
+    },
+    {
+      "id": "Q8",
+      "type": "filling",
+      "stem": "Black liquid is produced and is 8 ________ from time to time.",
+      "options": [],
+      "correctAnswer": "vomited up",
+      "explanation": "Para 5: “… from time to time large quantities of the liquid are vomited up by the whale.”",
+      "context": "How ambergris is formed\nAmbergris is formed in whales because of problems digesting the 7 ________ of giant squid.\n↓\nBlack liquid is produced and is 8 ________ from time to time."
+    },
+    {
+      "id": "Q9",
+      "type": "filling",
+      "stem": "The liquid 9 ________ on contact with the air.",
+      "options": [],
+      "correctAnswer": "hardens",
+      "explanation": "Para 5: “Once outside the whale’s body and exposed to air, the substance hardens …”",
+      "context": "How ambergris is formed\nAmbergris is formed in whales because of problems digesting the 7 ________ of giant squid.\n↓\nBlack liquid is produced and is 8 ________ from time to time.\n↓\nThe liquid 9 ________ on contact with the air."
+    },
+    {
+      "id": "Q10",
+      "type": "tfng",
+      "stem": "In the 20th century, most of the world’s ambergris came from processing dead whales.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE",
+      "explanation": "Para 6: “… over 90 per cent of the annual worldwide total was acquired in this way, as a by-product of commercial whaling.” “Commercial whaling” = 对死亡鲸体的处理。"
+    },
+    {
+      "id": "Q11",
+      "type": "tfng",
+      "stem": "The value of ambergris has increased recently.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN",
+      "explanation": "段 6 只说曾被替代，并未说明“近期价值上涨”。无正面或反面信息。"
+    },
+    {
+      "id": "Q12",
+      "type": "tfng",
+      "stem": "Ambergris remains an important ingredient in perfume.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "Para 6: “… ambergris was supplanted in the making of perfume by other materials …” -> 不再是重要原料。"
+    },
+    {
+      "id": "Q13",
+      "type": "tfng",
+      "stem": "New uses have recently been found for ambergris.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN",
+      "explanation": "全文未提及“发现新用途”；亦未说明没有新用途。信息缺失，判 NOT GIVEN。"
+    }
+  ]
+}

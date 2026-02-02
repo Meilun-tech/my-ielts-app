@@ -1,0 +1,241 @@
+{
+  "id": "P001",
+  "title": "A Brief History of Tea",
+  "difficulty": "Medium",
+  "timeLimit": 20,
+  "passageContent": "The story of tea began in ancient China over 5,000 years ago. According to legend, the Emperor Shen Nung was a skilled ruler, creative scientist and patron of the arts. His far-sighted edicts required, among other things, that all drinking water be boiled as a hygienic precaution. One summer day, while visiting a distant region of his realm, he and the court stopped to rest. In accordance with his ruling, the servants began to boil water for the court to drink. Dried leaves from a nearby bush fell into the boiling water, and as the leaves infused the water turned brown. As a scientist, the Emperor was intrigued by the new liquid, drank some, and found it very refreshing. And so, according to legend, tea was created.\n\nTea consumption spread throughout Chinese culture, reaching into every aspect of society. The first definitive book was written on tea – a book clearly reflecting Zen Buddhist philosophy – 1,200 years ago. The first tea seeds were brought to Japan by a returning Buddhist priest, who had seen the value of tea in enhancing meditation in China. As a result, he is known as the “Father of Tea” in Japan. Because of this early association, tea in Japan has always been linked with Zen Buddhism. Tea received the Japanese Emperor’s support almost instantly and spread rapidly from the royal court and monasteries to other sections of society.\n\nTea was elevated to an art form in the Japanese tea ceremony, in which supreme importance is given to making tea in the most perfect, most polite, most graceful, most charming manner possible. Such a purity of expression prompted the creation of a particular form of architecture for tea houses, duplicating the simplicity of a forest cottage. The cultural/artistic hostesses of Japan, the geishas, began to specialise in the presentation of the tea ceremony. However, as more and more people became involved in the excitement surrounding tea, the purity of the original concept was lost, and for a period the tea ceremony became corrupted, boisterous and highly embellished. Efforts were then made to return to the earlier simplicity, with the result that, in the 15th and 16th centuries, tea was viewed as the ultimate gift. Even warlords paused for tea before battles.\n\nWhile tea was at this high level of development in parts of Asia, information concerning the then-unknown beverage began to filter back to Europe. Earlier traders had mentioned it, but were unclear as to whether tea should be eaten or drunk. The first European to personally encounter tea and write about it was Portuguese – Portugal, with her technologically advanced navy, had been successful in gaining the first right of trade with China.\n\nTea finally arrived in Europe in the 16th century, brought to Holland by the country’s navy, and became very fashionable in the Dutch capital, The Hague. This was due in part to tea being very expensive (over $100 per pound), which immediately made it the domain of the wealthy. Slowly, as the amount of tea imported increased, the price fell, and by 1675 it was available in common food shops throughout Holland.\n\nAs the consumption of tea increased dramatically in Dutch society, doctors and university authorities in Holland argued as to its benefits or drawbacks. The public largely ignored the scholarly debate and continued to enjoy their new beverage, though the controversy lasted from 1635 to roughly 1657. Throughout this period, France and Holland led Europe in the use of tea.\n\nAs the craze for all things oriental swept through Europe, tea became part of everyday life. Adding milk to the drink was first mentioned in 1680. Around that time, Dutch inns provided the first restaurant service of tea. Innkeepers would furnish guests with a portable tea set complete with a heating unit. The Dutchman would then prepare tea for himself and his friends outside in the inn garden. Tea remained popular in France for only about fifty years, being replaced by a preference for wine, chocolate and exotic coffees. Tea was introduced into England in 1660 by King Charles II and his Portuguese queen, who were both confirmed tea drinkers. Tea mania swept across England as it had earlier spread throughout France and Holland. By 1708, tea importation had risen to thirteen times the 1699 level. Tea was drunk by all levels of society.\n\nRussian interest in tea began as early as 1618, when the Chinese embassy in Moscow presented several chests of tea to the Emperor, Czar Alexis. Later in the century, a trade treaty between Russia and China allowed caravans to cross back and forth freely between the two countries. Still, the journey was not easy. The average caravan consisted of 200 to 300 camels, and the 18,000-kilometre trip took over 16 months to complete. Eventually, however, tea became – as it still is – one of the most popular drinks in the country.",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "choice",
+      "stem": "Paragraph A",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "viii",
+      "explanation": "‘第A段… Dried leaves from a nearby bush fell into the boiling water… the Emperor… drank some, and found it very refreshing. And so, according to legend, tea was created.’ 整段描述茶因偶然落叶而被发现，符合“偶然发现”。"
+    },
+    {
+      "id": "Q2",
+      "type": "choice",
+      "stem": "Paragraph B",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "iv",
+      "explanation": "‘第B段… The first definitive book was written on tea – a book clearly reflecting Zen Buddhist philosophy… tea in Japan has always been linked with Zen Buddhism.’ 强调茶与禅宗（宗教）之间的紧密联系。"
+    },
+    {
+      "id": "Q3",
+      "type": "choice",
+      "stem": "Paragraph C",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "ix",
+      "explanation": "‘第C段… Tea was elevated to an art form in the Japanese tea ceremony, in which supreme importance is given to making tea in the most perfect, most polite… manner possible.’ 重点在于茶道这一仪式化过程。"
+    },
+    {
+      "id": "Q4",
+      "type": "choice",
+      "stem": "Paragraph D",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "vi",
+      "explanation": "‘第D段… information concerning the then-unknown beverage began to filter back to Europe… The first European to personally encounter tea and write about it was Portuguese…’ 描述茶信息首次传到亚洲以外的大洲（欧洲）。"
+    },
+    {
+      "id": "Q5",
+      "type": "choice",
+      "stem": "Paragraph E",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "v",
+      "explanation": "‘第E段… This was due in part to tea being very expensive (over $100 per pound), which immediately made it the domain of the wealthy.’ 茶价昂贵，只供富人享用，体现“奢侈品”。"
+    },
+    {
+      "id": "Q6",
+      "type": "choice",
+      "stem": "Paragraph F",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "vii",
+      "explanation": "‘第F段… doctors and university authorities in Holland argued as to its benefits or drawbacks… the public largely ignored the scholarly debate and continued to enjoy their new beverage.’ 段落围绕茶的利弊争论展开，正是“好还是坏”的讨论。"
+    },
+    {
+      "id": "Q7",
+      "type": "choice",
+      "stem": "Paragraph G",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "iii",
+      "explanation": "‘第G段… Tea remained popular in France for only about fifty years, being replaced by a preference for wine, chocolate and exotic coffees.’ 描述茶从流行到式微、再在英国重新盛行，体现“时尚更替”。"
+    },
+    {
+      "id": "Q8",
+      "type": "choice",
+      "stem": "Paragraph H",
+      "options": [
+        "i Not enough tea to meet demand",
+        "ii Religious objections",
+        "iii In – and sometimes out – of fashion",
+        "iv A connection between tea and religion",
+        "v A luxury item",
+        "vi News of tea reaches another continent",
+        "vii Is tea a good or a bad thing?",
+        "viii A chance discovery",
+        "ix Tea-making as a ritual",
+        "x Difficulties in importing tea"
+      ],
+      "correctAnswer": "x",
+      "explanation": "‘第H段… the journey was not easy. The average caravan consisted of 200 to 300 camels, and the 18,000-kilometre trip took over 16 months to complete.’ 详细说明运输路线漫长艰难，契合“进口困难”。"
+    },
+    {
+      "id": "Q9",
+      "type": "choice",
+      "stem": "Claims that tea might be harmful failed to affect its popularity.",
+      "options": [
+        "A China",
+        "B Japan",
+        "C Portugal",
+        "D Holland",
+        "E France",
+        "F England",
+        "G Russia"
+      ],
+      "correctAnswer": "D",
+      "explanation": "‘第F段… doctors and university authorities in Holland argued as to its benefits or drawbacks… The public largely ignored the scholarly debate and continued to enjoy their new beverage.’ 负面声音并未影响荷兰民众的热爱。"
+    },
+    {
+      "id": "Q10",
+      "type": "choice",
+      "stem": "Tea lost favour to other drinks.",
+      "options": [
+        "A China",
+        "B Japan",
+        "C Portugal",
+        "D Holland",
+        "E France",
+        "F England",
+        "G Russia"
+      ],
+      "correctAnswer": "E",
+      "explanation": "‘第G段… Tea remained popular in France for only about fifty years, being replaced by a preference for wine, chocolate and exotic coffees.’ 茶被酒、巧克力、咖啡取代。"
+    },
+    {
+      "id": "Q11",
+      "type": "choice",
+      "stem": "Special buildings were constructed in which to drink tea.",
+      "options": [
+        "A China",
+        "B Japan",
+        "C Portugal",
+        "D Holland",
+        "E France",
+        "F England",
+        "G Russia"
+      ],
+      "correctAnswer": "B",
+      "explanation": "‘第C段… prompted the creation of a particular form of architecture for tea houses, duplicating the simplicity of a forest cottage.’ 为茶道专门建造茶室。"
+    },
+    {
+      "id": "Q12",
+      "type": "choice",
+      "stem": "Animals were involved in importing tea.",
+      "options": [
+        "A China",
+        "B Japan",
+        "C Portugal",
+        "D Holland",
+        "E France",
+        "F England",
+        "G Russia"
+      ],
+      "correctAnswer": "G",
+      "explanation": "‘第H段… The average caravan consisted of 200 to 300 camels…’ 骆驼驮运茶穿越俄中商道。"
+    },
+    {
+      "id": "Q13",
+      "type": "choice",
+      "stem": "A ruler’s specialist knowledge led to an interest in tea.",
+      "options": [
+        "A China",
+        "B Japan",
+        "C Portugal",
+        "D Holland",
+        "E France",
+        "F England",
+        "G Russia"
+      ],
+      "correctAnswer": "A",
+      "explanation": "‘第A段… the Emperor Shen Nung was a… creative scientist… As a scientist, the Emperor was intrigued…’ 神农帝的科学素养促成茶的发现与推广。"
+    }
+  ]
+}

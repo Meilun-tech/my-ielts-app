@@ -1,0 +1,141 @@
+{
+    "id": "P017",
+    "title": "The Importance of Business Cards",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "The exchange of business cards is as close to a universal ritual as you can find in the business world.\n\nThe ritual may be universal, but the details of business cards and how they are swapped vary across countries. Americans throw their cards casually across a table; the Japanese make the exchange of cards a formal ceremony. While there are cards that are discreet and understated, others are crammed full of details and titles. Some businesspeople hand out 24-carat gold cards, and there are kindergarten children who have cards with not only their own contact details, but also with the job descriptions of their parents and even grandparents. This practice has become so common in parts of New York, for example, that the use of such cards is now prohibited by some of these institutions.\n\nCards have been around a long time in one form or another. The Chinese invented calling cards in the 15th century to give people notice that they intended to pay them a visit, but these were for social purposes only. Then, in the 17th century, European businesspeople invented a new type of card to act as miniature advertisements, signalling the advent of the business card. In today’s world, business cards can cause people to have strong emotional reactions. According to one experienced company director, very few things can provoke more heated discussion at a board meeting than the composition of the company’s business cards.\n\nLots of companies try to promote themselves by altering the form of the card. Employees at one famous toy company give out little plastic figures with their contact details stamped on them. One fast-food company has business cards which are shaped like a portion of French fries. A Canadian divorce lawyer once gave out cards that could be torn in two – one half for each of the spouses. For many business commentators, such gimmicky business cards prove that the use of a physical business card is nearly at an end. After all, why bother exchanging bits of thick paper at all when you can simply swap electronic versions by smartphone?\n\nHowever, one can just as well argue the opposite: that business cards are here to stay, and, in a business world full of meetings and correspondence, it is more important than ever that your card is unique. Attempts to reinvent business cards for the digital age have not been successful. Even at the latest technology conferences, people still greet each other by handing out little rectangles made from paper rather than using a digital alternative.\n\nTo understand business cards, it is necessary to understand how business works. That business cards are thriving in a digital age is a forceful reminder that there is much about business that is timeless. According to Kate Jones, a business lecturer, there is one eternal and inescapable issue. Her 2006 study of more than 200 business executives in North America found that trust was the key element for running a successful business. It is vital to be able to look someone in the eye and decide what sort of person they are. In this way, you can transform acquaintanceships into relationships. A good proportion of business life will always be about building social connections – having dinner or playing sport with clients and colleagues – and while computers can deal with administrative tasks, it is still human beings that have to focus on the emotional.\n\nThe rapid advance of globalisation means that this relationship-building process is becoming ever more demanding. Managers have to put more effort in when dealing with international counterparts, especially when there is not a common language, which is so often the case these days. A recent UK survey showed that chief executives of global organisations now routinely spend three out of every four weeks on international travel. It is in these situations that business cards are doubly useful, as they are a quick way of establishing connections. Cards can also remind you that you have actually met someone in a face-to-face meeting rather than just searched for them on the Internet. Looking through piles of different cards can enhance your memory in ways that simply looking through uniform electronic lists would never do.\n\nJanet McIntyre is a leading expert on business cards in today’s world. She maintains that as companies become more complex, cards are essential in determining the exact status of every contact you meet in multinational corporations. Janet also explains how exchanging business cards can be an effective way of initiating a conversation, because it gives people a ritual to follow when they first meet a new business contact.\n\nThe business world is obsessed with the idea of creating and inventing new things that will change the way we do everything, and this does lead to progress. But there are lots of things that do not need to be changed and, in Janet McIntyre’s view, tradition also has an equally valuable role to play. Therefore the practice of exchanging business cards is likely to continue in the business world.",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "tfng",
+        "stem": "Children’s business cards have been banned in some kindergartens.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "第二段：“This practice has become so common in parts of New York, for example, that the use of such cards is now prohibited by some of these institutions.”"
+      },
+      {
+        "id": "Q2",
+        "type": "tfng",
+        "stem": "It was the Chinese who first began the practice of using business cards.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "第三段指出中国人 15 世纪发明的是“calling cards (social only)”，而“business card”是 17 世纪欧洲商人发明的（European businesspeople invented a new type of card ... signalling the advent of the business card）。"
+      },
+      {
+        "id": "Q3",
+        "type": "tfng",
+        "stem": "Designing business cards can be a controversial process for some companies.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "第三段：“very few things can provoke more heated discussion at a board meeting than the composition of the company’s business cards.”"
+      },
+      {
+        "id": "Q4",
+        "type": "tfng",
+        "stem": "A famous toy company has boosted its sales by using one type of unusual business card.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "第四段提到玩具公司使用印有联系方式的小塑料人作为名片，但未提及这是否提高了销量（boosted sales）。"
+      },
+      {
+        "id": "Q5",
+        "type": "tfng",
+        "stem": "Some business commentators predict a decline in the use of paper business cards.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "第四段：“For many business commentators, such gimmicky business cards prove that the use of a physical business card is nearly at an end.”"
+      },
+      {
+        "id": "Q6",
+        "type": "filling",
+        "stem": "The most important aspect of business is having 6 ____________ in others.",
+        "options": [],
+        "correctAnswer": "trust",
+        "explanation": "第六段：“trust was the key element for running a successful business.”",
+        "context": "How business works\nKate Jones’s research\n• The most important aspect of business is having 6 ____________ in others."
+      },
+      {
+        "id": "Q7",
+        "type": "filling",
+        "stem": "7 ____________ do not have the ability to establish the good relationships essential to business.",
+        "options": [],
+        "correctAnswer": "computers",
+        "explanation": "第六段：“while computers can deal with administrative tasks, it is still human beings that have to focus on the emotional.” 隐含电脑无法建立这种人际关系。",
+        "context": "How business works\nKate Jones’s research\n• 7 ____________ do not have the ability to establish the good relationships essential to business."
+      },
+      {
+        "id": "Q8",
+        "type": "filling",
+        "stem": "Managers must work harder when they don’t share the same 8 ____________ with their contacts.",
+        "options": [],
+        "correctAnswer": "language",
+        "explanation": "第七段：“especially when there is not a common language”",
+        "context": "How business works\nBusiness and globalisation\n• Managers must work harder when they don’t share the same 8 ____________ with their contacts."
+      },
+      {
+        "id": "Q9",
+        "type": "filling",
+        "stem": "A UK survey indicates that 9 ____________ takes up the largest part of business leaders’ time.",
+        "options": [],
+        "correctAnswer": "travel",
+        "explanation": "第七段：“spend three out of every four weeks on international travel.”",
+        "context": "How business works\nBusiness and globalisation\n• A UK survey indicates that 9 ____________ takes up the largest part of business leaders’ time."
+      },
+      {
+        "id": "Q10",
+        "type": "filling",
+        "stem": "A business person’s 10 ____________ of a meeting can be improved by looking at business cards.",
+        "options": [],
+        "correctAnswer": "memory",
+        "explanation": "第七段：“Looking through piles of different cards can enhance your memory...”",
+        "context": "How business works\nBusiness and globalisation\n• A business person’s 10 ____________ of a meeting can be improved by looking at business cards."
+      },
+      {
+        "id": "Q11",
+        "type": "filling",
+        "stem": "Business cards clearly show the 11 ____________ of each person in a large company.",
+        "options": [],
+        "correctAnswer": "status",
+        "explanation": "第八段：“determining the exact status of every contact”",
+        "context": "How business works\nJanet McIntyre\n• Business cards clearly show the 11 ____________ of each person in a large company."
+      },
+      {
+        "id": "Q12",
+        "type": "filling",
+        "stem": "The ritual of swapping business cards is a good way of starting a 12 ____________ at the beginning of a business relationship.",
+        "options": [],
+        "correctAnswer": "conversation",
+        "explanation": "第八段：“effective way of initiating a conversation”",
+        "context": "How business works\nJanet McIntyre\n• The ritual of swapping business cards is a good way of starting a 12 ____________ at the beginning of a business relationship."
+      },
+      {
+        "id": "Q13",
+        "type": "filling",
+        "stem": "Janet feels that in the business world, 13 ____________ is just as important as innovation.",
+        "options": [],
+        "correctAnswer": "tradition",
+        "explanation": "最后一段：“tradition also has an equally valuable role to play.”",
+        "context": "How business works\nJanet McIntyre\n• Janet feels that in the business world, 13 ____________ is just as important as innovation."
+      }
+    ]
+  }

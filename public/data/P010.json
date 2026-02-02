@@ -1,0 +1,221 @@
+{
+    "id": "P010",
+    "title": "Maori Fish Hooks",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Maori fish hooks, made from wood, bone, stone and flax, are intended to have the best possible design and function. The hooks are designed to target specific species with precision. In the industry of commercial long-line fishing, there are some Maori hook designs that are making a splash.\n\nWhen Polynesians first came to New Zealand sometime between AD 1100–1300, they didn’t have the technology necessary to melt and manipulate metal from ore. Meanwhile, fish were the settlers’ main food source, so fishermen made their hooks and fishing gear out of wood, bone, stone and shells. Other plants native to New Zealand, such as flax (harakeke), cabbage tree (ti), and astelia (kiekie), provided the necessary fibrous material to make fishing-lines and nets of greater or equal strength to the jute used by Europeans at the time. Metal is more malleable and can be shaped in various ways, whereas natural materials are limited in the forms they can take; the Maori fish hooks needed to be innovative in overcoming these limitations.\n\nEarly European explorers who settled and explored New Zealand claimed that Maori hooks, known as matau, were “odd”, “of doubtful efficacy”, “very clumsy affairs”, or “impossible looking”. Archaeologists from recent times have also described the round hook as odd, with comments such as “shaped in a manner which makes it very difficult to imagine could ever be effective in catching a fish”. William Anderson, who was aboard the Resolution during Cook’s third voyage in 1777 as the ship’s surgeon, remarked that the Maori “live chiefly by fishing, making use … of wooden fish hooks pointed with bone, but so oddly made that a stranger is at a loss to know how they can answer such a purpose.”\n\nThe Museum of New Zealand Te Papa Tongarewa conducted a study on Maori fish hooks 230 years later and demonstrated that the unique hook design was a matter of function. The hook’s design allowed it to catch fish by spinning away from the direction of the point and catching their jaws, instead of poking a hole through the fish or being used as a lever, as some archaeologists had suggested. It appears that the design of the Maori fish hook is perhaps the world’s most efficiently and masterfully designed, likely superior to any modern metal fish hook today.\n\nTo make larger hooks, Maori used shanks made of strong wood, with stout points made of bone or shell. They tied tree branches and saplings together to grow them into ideal shapes for building, then harvested the plants when they reached the appropriate size. They hardened wood by carefully drying it and burying it underground with fires lit above. Human bone was often used for bone points, which were securely lashed to a groove at the end of the shank using pre-made flax materials (muka). When they wanted to catch larger species like sharks, groper and ling, they used composite hooks. However, on average, the traditional hook was usually no longer than a three-finger breadth (128 mm in length).\n\nTo capture seabirds for food and feathers, like albatross, the islanders used slender hooks that can be differentiated from other hooks intended for fish by their lighter build and lack of an in-turned point. Many of these hooks were collected by early explorers, suggesting that seabird catching with hook and line was an important source of food and feathers for the Maori (105 mm in length). Slender hooks with wide gaps were used to capture albatross and other seabirds and can be distinguished from fish hooks by their lighter construction and absence of an in-turned point. Early explorers collected many of these hooks, which could indicate that catching seabirds provided significant amounts of food and feathers for the Maori.\n\nThe Maori quickly adopted new materials once they became available through European explorers, sealers and whalers who began arriving towards the end of the 1700s. At this point, the Maori were still making their fish hooks but were now using metals and imported materials. Wooden and flax components of old, abandoned fish hooks decomposed quickly as traditional hooks were discarded in favour of new ones. Tools made of luxury materials such as ivory or greenstone may have been kept as decorative items, with stylised Maori fish hooks today serving as a symbol of cultural revitalisation.\n\nThe Maori continued to recreate traditional designs even as new materials became available, preferring hook shapes introduced by Pakeha in the 1800s. By maintaining the tradition of the rotating hook design, they remained connected to an essential part of their cultural heritage. In the end, however, mass-produced European metal hooks eventually dominated, making it difficult to continue crafting hooks from nails, horseshoes and other metal objects. Eventually, traditional designs fell out of favour.\n\nBy the late 19th and early 20th centuries, tourist and collector demand for Maori artefacts had grown, leading manufacturers to produce large quantities of forged hooks. These replicas were then traded with both Maori and Europeans as forgeries of the real thing, sometimes directly commissioned by artefact dealers. Fake hooks can be identified by their cheap construction, inconsistent materials, rudimentary lashings, odd or overly elaborate decorative carvings, and the absence of in-turned points or angled grooves used to attach the fishing-line properly.\n\nThe evolution of matau throughout history symbolises how the Maori have adapted to European tools, materials and technology over time. It also reflects how European influence contributed to, rather than completely replaced, traditional Maori skills, as native materials were replaced or complemented by metals and, more recently, artificial materials. Today, commercial long-line fishermen around the world have begun using the circle-hook design—one that is nearly identical in appearance and function to the traditional matau. It appears that the advantages and improved catch-rates of this Maori technology have once again been recognised.",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "choice",
+        "stem": "Instruction on how to recognise authentic Maori hooks from counterfeit ones",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph I",
+        "explanation": "“... Fake hooks can be identified by their cheap construction, inconsistent materials, rudimentary lashings, ...” 说明如何判断真伪。"
+      },
+      {
+        "id": "Q2",
+        "type": "choice",
+        "stem": "A description of a different type of hooks that are not used to catch fish",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph F",
+        "explanation": "“To capture seabirds... islanders used slender hooks ... can be differentiated from fish hooks...” 描述并非用来钓鱼、而是捕海鸟的细长钩。"
+      },
+      {
+        "id": "Q3",
+        "type": "choice",
+        "stem": "An acknowledgement that Maori design and craftsmanship are still relevant in the modern world",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph J",
+        "explanation": "“Today, commercial long-line fishermen ... have begun using the circle-hook design — one that is nearly identical ...” 承认现代渔业仍在借鉴毛利的设计与工艺。"
+      },
+      {
+        "id": "Q4",
+        "type": "choice",
+        "stem": "An investigation into how the hooks functioned so effectively",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph D",
+        "explanation": "“Te Papa ... demonstrated that the unique hook design was a matter of function. The hook's design allowed it to catch fish by spinning ...” 对钩子为何高效进行研究与验证。"
+      },
+      {
+        "id": "Q5",
+        "type": "choice",
+        "stem": "A description of how modern technology began to dominate and eventually took over from traditional hook construction",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph H",
+        "explanation": "“Mass-produced European metal hooks eventually dominated, making it difficult to continue crafting ... Traditional designs fell out of favour.” 现代金属钩取代传统手工钩的过程。"
+      },
+      {
+        "id": "Q6",
+        "type": "choice",
+        "stem": "A list of raw materials used to construct hooks",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph B",
+        "explanation": "“Hooks and fishing gear out of wood, bone, stone and shells ... flax ... cabbage tree ... astelia ...” 列举制作钓具的原料清单。"
+      },
+      {
+        "id": "Q7",
+        "type": "choice",
+        "stem": "An outline of how different styles of hooks and types of materials were employed to catch larger fish",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph E",
+        "explanation": "“To make larger hooks, Maori used shanks of strong wood ... When they wanted to catch larger species like sharks ... they used composite hooks.” 说明为了钓大鱼采用的钩型及材料组合。"
+      },
+      {
+        "id": "Q8",
+        "type": "choice",
+        "stem": "An account of how the Maori employed new technology and adapted it",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H",
+          "Paragraph I",
+          "Paragraph J"
+        ],
+        "correctAnswer": "Paragraph G",
+        "explanation": "“The Maori quickly adopted new materials ... were now using metals and imported materials.” 讲述毛利人如何吸收并改造新技术。"
+      },
+      {
+        "id": "Q9",
+        "type": "tfng",
+        "stem": "The early European settlers quickly understood how the Maori fish hook worked.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "Paragraph C: 欧洲探险者称钩子“odd... impossible looking... at a loss to know how they can answer such a purpose.” -> 他们并不立即理解其工作原理。"
+      },
+      {
+        "id": "Q10",
+        "type": "tfng",
+        "stem": "The hook works by making a hole and embedding itself in the mouth of the fish.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "Paragraph D: 钩子通过“spinning away ... catching their jaws, instead of poking a hole through the fish”。与题干相反。"
+      },
+      {
+        "id": "Q11",
+        "type": "tfng",
+        "stem": "The Maoris catch seabirds by their feet.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "Paragraph F 只说明用细钩捕海鸟，但未提及是否“钩住脚”或其他部位。信息缺失。"
+      },
+      {
+        "id": "Q12",
+        "type": "tfng",
+        "stem": "There used to be a demand for Maori fish hooks and many counterfeit ones were produced.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "Paragraph I: “tourist and collector demand ... leading manufacturers to produce large quantities of forged hooks.” -> 曾有需求，故出现大量假货。"
+      },
+      {
+        "id": "Q13",
+        "type": "tfng",
+        "stem": "Today European-style hooks have completely replaced the traditional styles used by the Maoris.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "Paragraph J: “Today, ... fishermen ... begun using the circle-hook design — nearly identical to the traditional matau.” -> 传统设计仍被采用，未被完全取代。"
+      }
+    ]
+  }

@@ -1,0 +1,141 @@
+{
+    "id": "P046",
+    "title": "Roller coaster: the great fairground attraction",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "How they move\n\nLike a passenger train, a roller coaster consists of a series of connected cars that move on a track. But unlike a passenger train, it has no engine or power source of its own. For most of the ride, it is moved only by the forces of inertia and gravity. The only exertion of energy occurs at the very beginning of the ride when the coaster train is pulled up the lift hill.\n\nThe traditional lifting mechanism is a long length of chain running up the hill under the track. The chain is fastened in a loop, which is wound around a gear at the top of the hill and another one at the bottom. The gear at the bottom of the hill is turned by a motor. This turns the chain so that it continually moves up the hill like a long conveyor belt. The coaster cars grip onto the chain, which simply pulls them to the top. At the summit, the train is released and starts its descent.\n\nThe purpose of this initial ascent is to build up a sort of reservoir of potential energy, which simply means that as the coaster gets higher in the air, there is a greater distance gravity can pull it down.\n\nAs the train starts coasting down the hill, this potential energy is converted into kinetic energy (energy of motion), and the train speeds up. At the bottom of the hill, this has reached its maximum, and this propels the train up the second hill, again building up the potential-energy level.\n\nIn this way, the course of the track is constantly converting energy from kinetic to potential and back again. This fluctuation in acceleration is what makes roller coasters so much fun. At its most basic level, this is all a roller coaster is – a machine that uses gravity and inertia to send a train along a winding track.\n\nCoasting through history\n\nRoller coasters have a long, fascinating history. Their direct ancestors were ice slides, popular in Russia in the 16th and 17th centuries. They consisted of a long, steep, wooden slide covered in ice. Riders walked up a ladder or set of stairs to the top of the slide, as high as 21 metres up. At the top, they climbed into sleds made of wood or blocks of ice and shot down the slope. At the base, the sleds would crash-land in a sand pile.\n\nIt seems that the idea was then imported into France. For most of the year, the warmer climate would melt the ice, so the French started building waxed slides instead. To help the sleds move down these slides, they added wheels, and in 1817, for the first time, a train was attached to the track. The French continued to expand on this idea, coming up with more complex track layouts, with multiple cars and all sorts of twists and turns.\n\nThe first American roller coaster was built in the mountains of Pennsylvania in the mid-1800s, originally to provide an easy way to send coal to the railway 29 km down the mountain. When the track was first built, a crew at the bottom of the mountain would attach the cart to a team of mules after emptying the load, and the mules would drag it back up to the top. They were eventually replaced with steam engines to make the system more efficient.\n\nSoon after these improvements were made, the railway company built a new tunnel that brought the freight trains much closer to the coal mine. No longer required for its original purpose, the roller coaster was configured as a ‘scenic tour’. For one dollar, tourists got a leisurely ride up to the top of the mountain, followed by a wild, bumpy ride straight down. This was soon a resounding success, attracting thousands of tourists every year.\n\nScenic rides like this continued to thrive and were joined by wooden roller coasters similar to the ones we know today. These coasters were the main attraction at popular amusement parks throughout the United States, such as the many parks of Coney Island in New York. By the 1920s, roller coasters were in full swing, with some 2,000 rides in operation around the country.\n\nFollowing the Great Depression, a decline in roller-coaster production began in the early 1930s, but a second roller-coaster boom in the 1970s and the beginning of the 1980s revitalised the amusement-park industry and introduced a slew of innovative tubular steel coasters.\n\nThis was followed by a decline in interest for the rest of the decade, but since the early 1990s the amusement-park industry has experienced another coaster boom of sorts. New launching techniques and other technological developments have opened up a world of options for designers, so in some rides you feel as if you are flying. In the next few years we can expect to see many faster, taller and more twisted rides popping up in amusement parks around the world.",
+    "questions": [
+      {
+        "id": "Q14",
+        "type": "filling",
+        "stem": "14",
+        "options": [],
+        "correctAnswer": "chain",
+        "explanation": "Diagram showing the mechanism of a roller coaster. The arrow points to the chain running up the hill. Text: 'The traditional lifting mechanism is a long length of chain running up the hill under the track.'",
+        "context": "Label the diagram below.\nChoose ONE WORD ONLY from the passage for each answer.\n[Diagram of a roller coaster lift hill]"
+      },
+      {
+        "id": "Q15",
+        "type": "filling",
+        "stem": "15",
+        "options": [],
+        "correctAnswer": "gear",
+        "explanation": "Diagram showing the mechanism at the bottom of the lift hill. Text: '...wound around a gear at the top of the hill and another one at the bottom.'",
+        "context": "Label the diagram below.\nChoose ONE WORD ONLY from the passage for each answer.\n[Diagram of a roller coaster lift hill]"
+      },
+      {
+        "id": "Q16",
+        "type": "filling",
+        "stem": "16",
+        "options": [],
+        "correctAnswer": "motor",
+        "explanation": "Diagram showing the power source turning the gear. Text: 'The gear at the bottom of the hill is turned by a motor.'",
+        "context": "Label the diagram below.\nChoose ONE WORD ONLY from the passage for each answer.\n[Diagram of a roller coaster lift hill]"
+      },
+      {
+        "id": "Q17",
+        "type": "filling",
+        "stem": "Modern roller coasters are descended from 16th-century Russian slides with a surface of 17 _______.",
+        "options": [],
+        "correctAnswer": "ice",
+        "explanation": "Section 'Coasting through history': 'Their direct ancestors were ice slides... consisting of a long, steep, wooden slide covered in ice.'",
+        "context": "History of roller coasters\n• Modern roller coasters are descended from 16th-century Russian slides with a surface of 17 _______."
+      },
+      {
+        "id": "Q18",
+        "type": "filling",
+        "stem": "In France, because of the higher temperatures, the wooden surface on the slides was 18 _______,",
+        "options": [],
+        "correctAnswer": "waxed",
+        "explanation": "Section 'Coasting through history': '...the warmer climate would melt the ice, so the French started building waxed slides instead.'",
+        "context": "History of roller coasters\n• In France, because of the higher temperatures, the wooden surface on the slides was 18 _______,"
+      },
+      {
+        "id": "Q19",
+        "type": "filling",
+        "stem": "and 19 _______ were attached to the cars to ease the descent.",
+        "options": [],
+        "correctAnswer": "wheels",
+        "explanation": "Section 'Coasting through history': 'To help the sleds move down these slides, they added wheels...'",
+        "context": "History of roller coasters\n• In France, because of the higher temperatures, the wooden surface on the slides was 18 _______, and 19 _______ were attached to the cars to ease the descent."
+      },
+      {
+        "id": "Q20",
+        "type": "filling",
+        "stem": "The first US roller coaster was used for transporting 20 _______ down a mountainside in carts.",
+        "options": [],
+        "correctAnswer": "coal",
+        "explanation": "Section 'Coasting through history': '...originally to provide an easy way to send coal to the railway 29 km down the mountain.'",
+        "context": "History of roller coasters\n• The first US roller coaster was used for transporting 20 _______ down a mountainside in carts."
+      },
+      {
+        "id": "Q21",
+        "type": "filling",
+        "stem": "Initially, these were pulled by mules, but in time power was produced by 21 _______.",
+        "options": [],
+        "correctAnswer": "steam engines",
+        "explanation": "Section 'Coasting through history': 'They were eventually replaced with steam engines to make the system more efficient.'",
+        "context": "History of roller coasters\n• Initially, these were pulled by mules, but in time power was produced by 21 _______."
+      },
+      {
+        "id": "Q22",
+        "type": "tfng",
+        "stem": "The earliest modifications to the basic slide were made in France.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "Text: 'It seems that the idea was then imported into France... the French started building waxed slides instead. To help the sleds move down these slides, they added wheels...'"
+      },
+      {
+        "id": "Q23",
+        "type": "tfng",
+        "stem": "Roller coasters continued to increase in popularity throughout the 1920s and 1930s.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "Text: 'Following the Great Depression, a decline in roller-coaster production began in the early 1930s...' The popularity did not continue to increase throughout the 1930s."
+      },
+      {
+        "id": "Q24",
+        "type": "tfng",
+        "stem": "New roller-coaster technology was introduced in the 1970s in response to public demand.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "Text mentions 'a second roller-coaster boom in the 1970s... introduced a slew of innovative tubular steel coasters', but does not say it was 'in response to public demand'."
+      },
+      {
+        "id": "Q25",
+        "type": "tfng",
+        "stem": "Roller coasters were less popular for most of the 1980s than in the 1970s and 1990s.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "Text: 'This was followed by a decline in interest for the rest of the decade [1980s], but since the early 1990s the amusement-park industry has experienced another coaster boom...'"
+      },
+      {
+        "id": "Q26",
+        "type": "tfng",
+        "stem": "The design of roller-coaster rides became more varied in the 1990s.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "Text: 'New launching techniques and other technological developments have opened up a world of options for designers...'"
+      }
+    ]
+  }

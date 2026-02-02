@@ -1,0 +1,213 @@
+{
+    "id": "P042",
+    "title": "Intelligent behaviour in birds",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Many people are aware of the intelligence of chimpanzees and other mammals. However, birds also demonstrate intelligent behaviour.\n\nA For centuries, many scholars maintained that humans were the only intelligent organisms on Earth. Many traits were considered to be exclusively human examples of acumen – for example, language, tool use, deception, and awareness of self and others. However, exciting new research on a number of animals, particularly birds, has called into question the uniqueness of these traits, forcing us to reconsider this opinion. In 1964, people were amazed when naturalist Jane Goodall first discovered chimpanzees making and using tools. But ornithologists, people who study birds, were not overly surprised. Almost 20 years earlier, a renowned ornithologist had shown that tool use was commonplace in populations of woodpecker finches residing on the Galápagos Islands. These tiny birds routinely used twigs to extract grubs from under bark.\n\nB Since then, the catalogue of tool-using animals has grown. At least three Australian bird species make tools similar to those of the woodpecker finch, and when white-winged choughs come across shellfish, they have been known to use rocks as hammers to crack open the recalcitrant shells. Other birds show a more sophisticated level of insight. For example, black kites have been reported dropping bait into lakes to bring fish to the surface of the water, thereby making them easier to catch. A kite may also pick up a smouldering stick from an area recently burned by a bushfire and drop the stick on a patch of unburned grass. The bird then feasts on the small animals that flee from the subsequent fire.\n\nC Most tool-using behaviours are a means of extracting food, which may provide a clue as to how the mental abilities needed for tool use evolved. The predominant explanation is based on the proverb that ‘necessity is the mother of invention’. Essentially, brain tissue is energetically expensive, so animals should have evolved only the intellectual capabilities required to overcome the challenges they face in their environment. Consider a hypothetical duck grazing on a seemingly endless supply of grass. Being particularly intelligent will not help the duck eat more grass. In contrast, other species, such as birds of prey, live in a more challenging environment, where food may be distributed erratically, hidden from view or highly mobile. The food itself may be quite intelligent. So, if there are not enough resources to feed all individuals, then only the smartest in each generation will live and reproduce.\n\nD New Caledonian crows boast many different tools in their toolkit. They use a hooked tool made by removing all but one of the side branches from a twig. They fashion serrated rakes (using their beaks as scissors) from stiff, leathery pandanus leaves. They also make probes by modifying their own moulted feathers. Each tool is used in slightly different ways to pull grubs from deep within tree trunks. The crows carry their favourite tool from one foraging site to the next. They also store their tools for later reuse in a secure place on their perch. Problem-solving abilities have traditionally been thought to be beyond the reach of animals. Nevertheless, birds are coming up with innovative solutions all the time. Recently, New Caledonian crows were observed moulding a piece of wire, something they had never seen before, into a hook and then using it to retrieve food.\n\nE Literally hundreds of such reports have accumulated in back copies of scientific journals. Recently, a team of biologists from McGill University in Canada collated them and compared the frequency and size of innovations with the size of the birds’ forebrain (the brain area responsible for higher-order information processing) relative to the hindbrain. The team uncovered a clear relationship: birds with relatively large forebrains are able to invent fresh solutions to ecological challenges, and to exploit the discoveries and inventions of others, more often than birds with relatively small forebrains.\n\nF Intelligence in birds may also arise as a result of selection to overcome the dynamic challenges of communal living. Since this involves competition between group members, to be successful a social animal may need to be able to reflect on its own intentions, as well as those of others. The consequence of being part of a community may be the evolution of a distinctly ‘political’ brain.\n\nG What better way to exercise a political brain than to be deceitful! Perhaps the best example of deception among birds comes from the white-winged choughs. Choughs are cooperative breeders – that is, they form a communal group consisting of one breeding pair and up to 15 non-breeding ‘helpers’. However, because young choughs have so little enthusiasm for foraging, or gathering food, they are often too hungry to help. And because it is socially unacceptable to be part of a group and provide little help, young choughs often act deceptively. For example, when an adult is watching, a young chough will place some food in the mouth of a hungry chick but not release it. Instead, it waits until the adult departs and then eats the food itself. A chough can also help the group by preening the chicks. Interestingly, it is more likely to preen the chicks if another bird can see it do so. A chough that has been sitting totally still on the nest while the rest of the group is foraging out of sight will comically spring up and frantically start to preen the chicks as soon as some of its group members come into view. It is likely that these young choughs are only motivated to help when others are watching because they are concerned about their social status. Choughs need other choughs to like them, as they cannot breed without them.",
+    "questions": [
+      {
+        "id": "Q14",
+        "type": "choice",
+        "stem": "Paragraph A",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "iv",
+        "explanation": "A段提到：“Many traits were considered to be exclusively human... However... has called into question the uniqueness of these traits, forcing us to reconsider this opinion.” 符合“Reviewing long-held beliefs”。"
+      },
+      {
+        "id": "Q15",
+        "type": "choice",
+        "stem": "Paragraph B",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "viii",
+        "explanation": "B段列举了多种使用工具的鸟类（Australian bird species, white-winged choughs, black kites），符合“Several examples of birds that use tools”。"
+      },
+      {
+        "id": "Q16",
+        "type": "choice",
+        "stem": "Paragraph C",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "i",
+        "explanation": "C段解释了工具使用能力与生存资源的关系（extracting food... only the smartest... will live and reproduce），符合“The theory linking capacity for tool use in birds and survival”。"
+      },
+      {
+        "id": "Q17",
+        "type": "choice",
+        "stem": "Paragraph D",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "ix",
+        "explanation": "D段详细描述了 New Caledonian crows 使用多种工具（hooked tool, serrated rakes, probes），符合“One species’ multiple tool-using techniques”。"
+      },
+      {
+        "id": "Q18",
+        "type": "choice",
+        "stem": "Paragraph E",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "vii",
+        "explanation": "E段提到了大脑结构（forebrain vs hindbrain）与创新能力的关系，符合“Physiological evidence of birds’ intelligence”。"
+      },
+      {
+        "id": "Q19",
+        "type": "choice",
+        "stem": "Paragraph F",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "iii",
+        "explanation": "F段讨论了群居生活（communal living）对智力进化的影响，符合“The theory linking cognitive ability and living in a society”。"
+      },
+      {
+        "id": "Q20",
+        "type": "choice",
+        "stem": "Paragraph G",
+        "options": [
+          "i The theory linking capacity for tool use in birds and survival",
+          "ii The influence of humans on tool use",
+          "iii The theory linking cognitive ability and living in a society",
+          "iv Reviewing long-held beliefs",
+          "v Intelligence helps birds to remember",
+          "vi How some birds trick each other",
+          "vii Physiological evidence of birds’ intelligence",
+          "viii Several examples of birds that use tools",
+          "ix One species’ multiple tool-using techniques"
+        ],
+        "correctAnswer": "vi",
+        "explanation": "G段讲述了 white-winged choughs 的欺骗行为（deceitful/deception），符合“How some birds trick each other”。"
+      },
+      {
+        "id": "Q21",
+        "type": "choice",
+        "stem": "keeping tools that they like to use",
+        "options": [
+          "A White-winged choughs",
+          "B Black kites",
+          "C New Caledonian crows"
+        ],
+        "correctAnswer": "C",
+        "groupId": "G1",
+        "explanation": "D段：“The crows carry their favourite tool from one foraging site to the next.”"
+      },
+      {
+        "id": "Q22",
+        "type": "choice",
+        "stem": "drawing out their prey by frightening it",
+        "options": [
+          "A White-winged choughs",
+          "B Black kites",
+          "C New Caledonian crows"
+        ],
+        "correctAnswer": "B",
+        "groupId": "G1",
+        "explanation": "B段：“drop the stick on a patch of unburned grass. The bird then feasts on the small animals that flee from the subsequent fire.”"
+      },
+      {
+        "id": "Q23",
+        "type": "choice",
+        "stem": "the use of tools to remove the outer covering from food",
+        "options": [
+          "A White-winged choughs",
+          "B Black kites",
+          "C New Caledonian crows"
+        ],
+        "correctAnswer": "A",
+        "groupId": "G1",
+        "explanation": "B段：“use rocks as hammers to crack open the recalcitrant shells.”"
+      },
+      {
+        "id": "Q24",
+        "type": "choice",
+        "stem": "using food to attract their prey",
+        "options": [
+          "A White-winged choughs",
+          "B Black kites",
+          "C New Caledonian crows"
+        ],
+        "correctAnswer": "B",
+        "groupId": "G1",
+        "explanation": "B段：“dropping bait into lakes to bring fish to the surface...”"
+      },
+      {
+        "id": "Q25",
+        "type": "choice",
+        "stem": "the use of unfamiliar materials to make tools",
+        "options": [
+          "A White-winged choughs",
+          "B Black kites",
+          "C New Caledonian crows"
+        ],
+        "correctAnswer": "C",
+        "groupId": "G1",
+        "explanation": "D段：“moulding a piece of wire, something they had never seen before...”"
+      },
+      {
+        "id": "Q26",
+        "type": "choice",
+        "stem": "engaging in certain activities for the benefit of observers",
+        "options": [
+          "A White-winged choughs",
+          "B Black kites",
+          "C New Caledonian crows"
+        ],
+        "correctAnswer": "A",
+        "groupId": "G1",
+        "explanation": "G段：“more likely to preen the chicks if another bird can see it do so.”"
+      }
+    ]
+  }

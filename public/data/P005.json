@@ -1,0 +1,147 @@
+{
+  "id": "P005",
+  "title": "Australian artist Margaret Preston",
+  "difficulty": "Medium",
+  "timeLimit": 20,
+  "passageContent": "Margaret Preston’s vibrant paintings and prints of Australian flowers, animals and landscapes have delighted the Australian public since the early 1920s.\n\nMargaret Preston was born Margaret Rose McPherson in Port Adelaide, South Australia in 1875, the daughter of David McPherson, a Scottish marine engineer and his wife Prudence Lyle. She and her sister were sent at first to a private school, but when family circumstances changed, her mother took the girls to Sydney where Margaret attended a public high school. She decided early in life to become an artist and took private art lessons. In 1888, she trained for several months with Sydney landscape painter William Lister, and in 1893 enrolled at the National Gallery of Victoria Art School, where she studied for just over four years.\n\nIn 1898, after her father died, Margaret returned to Adelaide to study and then teach at the Adelaide School of Design. Her early artwork was influenced by the German aesthetic tradition, in which subjects of the natural world were depicted in a true-to-life manner. Margaret’s first visit to Europe in 1904, and her studies in Paris, France had little impact on this naturalism that dominated her work from this early period. However, some eight years later, after returning to Paris, she began to recognise the decorative possibilities of art.\n\nWith the outbreak of the First World War, Margaret travelled to England, where she had exhibitions and continued her studies of art. She was a student of pottery, but at some time developed her interest in various techniques of printmaking and design. In England’s West Country, she taught basket weaving at a rehabilitation unit for servicemen. It was on board a boat returning to Australia that she met wealthy businessman William Preston, whom she married in 1919. Together Margaret and William settled in the Sydney harbourside suburb of Mosman. The most characteristic prints from her early years in Sydney are views of boats floating on Sydney Harbour and of houses clustered on foreshore hills. Although Sydney was their home, the couple travelled regularly, both overseas and within Australia.\n\nHer first major showing in Australia was with her friend Thea Proctor, in exhibitions in Melbourne and Sydney in 1925. Many of Preston’s prints were hand-coloured in rich scarlet reds, blues and greens, and all of them were set in Chinese red lacquer frames. Harbour views were again prominent, but in comparison with earlier artworks, they were compact and busy, using striking contrasts of black and white combined with elaborate patterns and repetitions. Other prints from this period featured native flora. It was with these still-life subjects that she convinced the public that Australian native flowers were equal in beauty to any exotic species.\n\nFrom 1932 to 1939, Preston moved away from Sydney and lived with her husband at Berowra, on the upper reaches of the Hawkesbury River. The area was one of rugged natural beauty, and for the first time Preston found herself living in a home surrounded by bush. Prior to this, the native flowers that featured in her paintings and prints had been purchased from local florists; they now grew in abundance around her home. Preston’s prints became larger, less complex and less reliant on the use of bright colours. Flowers were no longer arranged in vases, and Preston began to concentrate instead on flowers that were growing wild.\n\nWhile living at Berowra, and undoubtedly prompted by the Aboriginal rock engravings found near her property, Preston also developed what was to be a lifelong interest in Aboriginal art. On returning to Sydney in 1939, she became a member of the Anthropological Society of New South Wales, and later visited many important Aboriginal sites throughout Australia. Preston believed that Aboriginal art provided the key to establishing a national body of art that reflected the vast and ancient continent of Australia.\n\nDuring the 1940s, symbols used by Aboriginal people, together with dried, burnt colours found in traditional Aboriginal paintings, became increasingly prominent in her prints. The artist’s titles from this period frequently acknowledge her sources, and reveal the extent to which she drew inspiration from traditional Aboriginal art to create her own art.\n\nIt was in 1953, at the age of 78, that Preston produced her most significant prints. The exhibition at Macquarie Galleries in Sydney included 29 prints made using the ancient technique known as stencilling. Many of the artworks in the exhibition incorporated her fusion of Aboriginal and Chinese concepts. Preston had admired Chinese art since 1915, when she acquired the first of her many books on the subject, and she had visited China on two occasions. Chinese elements may be found in several of her earlier paintings.\n\nHowever, in her prints of the 1950s, Preston combined Chinese ideas with her understanding of the Dreamtime creation stories of Aboriginal Australians. Preston did not let age alter her habit of working hard. As she got older, her love of painting, printmaking and travel continued. By the time of her death in 1963, when she was 88, she had produced over 400 paintings and prints. In a career spanning almost 60 years, she created a body of work that demonstrates her extraordinary originality and the intensity of her commitment to Australian art.",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "tfng",
+      "stem": "Artists in the German aesthetic tradition portrayed nature realistically.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE",
+      "explanation": "Para 2: “Her early artwork was influenced by the German aesthetic tradition, in which subjects of the natural world were depicted in a true-to-life manner.” “true-to-life” 就是写实，说明德意志审美传统确实写实再现自然。"
+    },
+    {
+      "id": "Q2",
+      "type": "tfng",
+      "stem": "Margaret attended a famous art college in Paris.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN",
+      "explanation": "文中多次提到她“在巴黎学习艺术”，但并未说明她“就读于一所著名的巴黎艺术院校”，既没有“famous”这类评价，信息缺失，选 NOT GIVEN。"
+    },
+    {
+      "id": "Q3",
+      "type": "tfng",
+      "stem": "Margaret met her husband William while teaching a craft at a rehabilitation unit.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "Para 3: 她在英国西南部的康复中心教士兵编篮子，但“是在回澳大利亚的船上”遇到 William Preston 并结婚——并非在康复中心。"
+    },
+    {
+      "id": "Q4",
+      "type": "tfng",
+      "stem": "Margaret Preston and Thea Proctor explored similar themes in their art.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "NOT GIVEN",
+      "explanation": "Para 4 只说 1925 年她与好友 Thea Proctor 联合办展，但没有提到两人在主题或风格上是否“探讨相似主题”。缺乏对比信息，选 NOT GIVEN。"
+    },
+    {
+      "id": "Q5",
+      "type": "tfng",
+      "stem": "Margaret’s 1925 artworks of Sydney Harbour were simpler than her previous ones.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "Para 4: “in comparison with earlier artworks, they were compact and busy, using striking contrasts…” ——“compact and busy” 表示更紧凑、更繁复，而非“simpler”。"
+    },
+    {
+      "id": "Q6",
+      "type": "tfng",
+      "stem": "The colours in Margaret’s Berowra prints were very bright.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "FALSE",
+      "explanation": "Para 5: “Preston’s prints became larger, less complex and less reliant on the use of bright colours.” ——恰恰说明 Berowra 期作品“不再大量使用亮色”。"
+    },
+    {
+      "id": "Q7",
+      "type": "tfng",
+      "stem": "When living in Berowra, Margaret painted flowers in their natural location.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correctAnswer": "TRUE",
+      "explanation": "Para 5: “Flowers were no longer arranged in vases, and Preston began to concentrate instead on flowers that were growing wild.” ——她直接描绘野外生长的花，即在自然环境中作画。"
+    },
+    {
+      "id": "Q8",
+      "type": "filling",
+      "stem": "incorporated 8………… and colours from Aboriginal art in her own work",
+      "options": [],
+      "correctAnswer": "symbols",
+      "explanation": "Para 7: “During the 1940s, symbols used by Aboriginal people, together with dried, burnt colours… became increasingly prominent in her prints.”",
+      "context": "Margaret Preston’s later life\nAboriginal influence:\n• interest in Aboriginal art was inspired by seeing rock engravings close to her Berowra home\n• incorporated 8………… and colours from Aboriginal art in her own work"
+    },
+    {
+      "id": "Q9",
+      "type": "filling",
+      "stem": "often referred to Aboriginal sources in the 9 ……… she gave her artworks",
+      "options": [],
+      "correctAnswer": "titles",
+      "explanation": "Para 7: “The artist’s titles from this period frequently acknowledge her sources…”",
+      "context": "Margaret Preston’s later life\nAboriginal influence:\n• interest in Aboriginal art was inspired by seeing rock engravings close to her Berowra home\n• incorporated 8………… and colours from Aboriginal art in her own work\n• often referred to Aboriginal sources in the 9 ……… she gave her artworks"
+    },
+    {
+      "id": "Q10",
+      "type": "filling",
+      "stem": "a very old method called 10 ……… was used for some prints",
+      "options": [],
+      "correctAnswer": "stencilling",
+      "explanation": "Para 8: “…29 prints made using the ancient technique known as stencilling.”",
+      "context": "Margaret Preston’s later life\n1953 exhibition:\n• a very old method called 10 ……… was used for some prints"
+    },
+    {
+      "id": "Q11",
+      "type": "filling",
+      "stem": "was inspired by 11……… about Chinese art that she had started collecting in 1915",
+      "options": [],
+      "correctAnswer": "books",
+      "explanation": "Para 8: “Preston had admired Chinese art since 1915, when she acquired the first of her many books on the subject.”",
+      "context": "Margaret Preston’s later life\n1953 exhibition:\n• a very old method called 10 ……… was used for some prints\n• was inspired by 11……… about Chinese art that she had started collecting in 1915"
+    },
+    {
+      "id": "Q12",
+      "type": "filling",
+      "stem": "still interested in art and 12……….",
+      "options": [],
+      "correctAnswer": "travel",
+      "explanation": "Para 9: “…her love of painting, printmaking and travel continued.”",
+      "context": "Margaret Preston’s later life\nOld age:\n• still interested in art and 12………."
+    },
+    {
+      "id": "Q13",
+      "type": "filling",
+      "stem": "worked for nearly six decades, making more than 13………. artworks",
+      "options": [],
+      "correctAnswer": "400",
+      "explanation": "Para 9: “…she had produced over 400 paintings and prints.”",
+      "context": "Margaret Preston’s later life\nOld age:\n• still interested in art and 12……….\n• worked for nearly six decades, making more than 13………. artworks"
+    }
+  ]
+}

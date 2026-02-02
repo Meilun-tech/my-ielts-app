@@ -1,0 +1,196 @@
+{
+    "id": "P048",
+    "title": "Solving the problem of waste disposal",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "With the amount of rubbish being produced around the world increasing, Mark Rowe asks whether a new generation of incineration plants can help to solve the problem\n\nA For many years, burning rubbish has been portrayed as the lazy option when it comes to dealing with the problem of waste disposal, since it sends toxic fumes into the air and appears to support a consumerist, throwaway society. Norway, however, appears to be burning its way through a sizeable chunk of Europe’s municipal waste, using the heat created by this process to warm and power homes in many of its cities. Norway isn’t alone: Germany, Sweden, Belgium and the Netherlands all burn significant quantities of rubbish, and across Europe there are 420 plants burning municipal waste. With Europe dumping 150 million tonnes of rubbish into landfill* every year, there would seem to be a limitless supply.\n\nB Those who support burning waste say that a new generation of incinerators has made it a more attractive option. Filters and scrubbing mechanisms now capture harmful substances such as mercury, hydrochloric acid and heavy metals. According to Ted Michaels, president of the US-based Energy Recovery Centre, ‘There has been constant evolution in combustion engineering and emissions-control technology, and the output from these facilities is now minuscule.’ Above all, however, supporters say that incineration is the only way of preventing the long-term impacts of landfill. In ten years’ time, says the World Bank, humans will be generating 2.2 billion tonnes of solid waste per year. Advocates see incineration as a practical way to deal swiftly with an immediate problem.\n\nC Levels of waste generation vary hugely around the world. ‘It’s a problem for the developed nations,’ says Joergen Fenhann, a senior scientist working with the UN Environment Programme in Denmark. ‘The more you develop, the more you produce, buy and throw away.’ But the growth of incineration hasn’t been universally welcomed. Lars Haltbrekken, chairman of Friends of the Earth in Norway, is concerned that incineration plants appear to generate demand for their services. ‘The problem in Norway,’ he explains, ‘is that we have built too many waste-burning factories. So we’ve ended up importing waste from other countries. If you look at this in a very small perspective, it is, of course, better for the climate to burn rubbish from the UK rather than leave it in landfill there,’ he continues. ‘But in a broader perspective, it’s a lazy way of getting rid of waste; you don’t stimulate the goals of reducing, reusing and recycling.’\n\nD Incineration is also at odds with EU policy, which promotes a ‘recycling hierarchy’: ideally, we simply produce less waste in the first place; failing that, we reuse objects more; the next step is recycling; only then should we consider incineration, while dumping in landfill is the last resort. Dealing with the problem of waste disposal involves tracing the whole process that took the material from its inception to landfill. We used to call this the ‘cradle to grave’ life cycle; now, the talk is of ‘cradle to cradle’ and an even more comprehensive concept known as ‘zero waste’. ‘The philosophy of cradle to cradle is about designing products that are actually good for the environment at the end of their life,’ says Joan Marc Simon, European spokesman for the environmental movement GAIA. ‘You design a bottle that contains no toxins, is fully recyclable and requires the minimum amount of energy to be produced.’ As Simon points out, however, without the right mechanisms in place ‘nothing guarantees that this bottle will end up being properly collected and treated in the appropriate recycling facility’.\n\nE Tim Burns, policy manager at Keep Britain Tidy, says, ‘In the UK alone, people waste £10 billion of food every year. You can argue about composting that, or not buying it in the first place — if you do that, then that’s money the retailers don’t get, so it’s not always clear-cut.’ The implications of zero waste are that we’re going to have to take a good long look at those well-stocked supermarket shelves, too. ‘Supermarkets keep their shelves stocked even when demand isn’t there, which means they have to pay to dispose of a lot of food,’ says Burns. ‘But that cost is less to them than the cost in brand damage of having empty shelves.’\n\nF Recent history and changes in trends in recycling suggest that we should be prepared for unexpected developments. ‘If someone back in the 1980s had suggested what waste would be like now, they would be completely wrong,’ says Richard Fisher, a PhD researcher at Cranfield University. ‘Consumerism has developed at a pace we never expected. Nobody would have said there would be so much electronic waste. But recycling has grown, too — ten years ago nobody would have predicted today’s levels of recycling.’ But he points out that the need to reduce waste is still a difficult message to sell to consumers. He suggests that what people are really concerned about is their loved ones and the future they face. ‘Perhaps we can align the environmental message to these deep-seated values,’ he says. ‘We need to look at whether it’s business that drives consumers or the other way around. You need government to play a leadership role, whereas countries such as the UK seem to be stepping away from the environment in pursuit of short-term economic goals.’\n\n*landfill: a method of disposing of waste material by burying it",
+    "questions": [
+      {
+        "id": "Q14",
+        "type": "choice",
+        "stem": "Paragraph A",
+        "options": [
+          "i New terminology reflecting changing attitudes to waste disposal",
+          "ii Fundamental changes in behaviour in the past and future",
+          "iii Ways of rewarding the public for recycling",
+          "iv A surprising approach to waste disposal by several countries",
+          "v Difficult choices for individuals and businesses",
+          "vi Arguments against incineration from a country that uses it",
+          "vii A number of justifications for the use of incineration"
+        ],
+        "correctAnswer": "iv",
+        "explanation": "Paragraph A mentions Norway, Germany, Sweden, Belgium, and the Netherlands burning significant quantities of rubbish to produce energy, which contrasts with the view of burning rubbish as a 'lazy option'. This fits 'A surprising approach to waste disposal by several countries'."
+      },
+      {
+        "id": "Q15",
+        "type": "choice",
+        "stem": "Paragraph B",
+        "options": [
+          "i New terminology reflecting changing attitudes to waste disposal",
+          "ii Fundamental changes in behaviour in the past and future",
+          "iii Ways of rewarding the public for recycling",
+          "iv A surprising approach to waste disposal by several countries",
+          "v Difficult choices for individuals and businesses",
+          "vi Arguments against incineration from a country that uses it",
+          "vii A number of justifications for the use of incineration"
+        ],
+        "correctAnswer": "vii",
+        "explanation": "Paragraph B discusses improvements in technology (filters, scrubbing mechanisms), reduced harmful emissions, and incineration as a way to prevent long-term impacts of landfill. This aligns with 'A number of justifications for the use of incineration'."
+      },
+      {
+        "id": "Q16",
+        "type": "choice",
+        "stem": "Paragraph C",
+        "options": [
+          "i New terminology reflecting changing attitudes to waste disposal",
+          "ii Fundamental changes in behaviour in the past and future",
+          "iii Ways of rewarding the public for recycling",
+          "iv A surprising approach to waste disposal by several countries",
+          "v Difficult choices for individuals and businesses",
+          "vi Arguments against incineration from a country that uses it",
+          "vii A number of justifications for the use of incineration"
+        ],
+        "correctAnswer": "vi",
+        "explanation": "Paragraph C quotes Lars Haltbrekken from Norway criticizing the growth of incineration plants, saying they generate demand for waste and discourage reducing/recycling. This matches 'Arguments against incineration from a country that uses it'."
+      },
+      {
+        "id": "Q17",
+        "type": "choice",
+        "stem": "Paragraph D",
+        "options": [
+          "i New terminology reflecting changing attitudes to waste disposal",
+          "ii Fundamental changes in behaviour in the past and future",
+          "iii Ways of rewarding the public for recycling",
+          "iv A surprising approach to waste disposal by several countries",
+          "v Difficult choices for individuals and businesses",
+          "vi Arguments against incineration from a country that uses it",
+          "vii A number of justifications for the use of incineration"
+        ],
+        "correctAnswer": "i",
+        "explanation": "Paragraph D introduces terms like 'cradle to grave', 'cradle to cradle', and 'zero waste', representing shifts in how waste is viewed. This fits 'New terminology reflecting changing attitudes to waste disposal'."
+      },
+      {
+        "id": "Q18",
+        "type": "choice",
+        "stem": "Paragraph E",
+        "options": [
+          "i New terminology reflecting changing attitudes to waste disposal",
+          "ii Fundamental changes in behaviour in the past and future",
+          "iii Ways of rewarding the public for recycling",
+          "iv A surprising approach to waste disposal by several countries",
+          "v Difficult choices for individuals and businesses",
+          "vi Arguments against incineration from a country that uses it",
+          "vii A number of justifications for the use of incineration"
+        ],
+        "correctAnswer": "v",
+        "explanation": "Paragraph E discusses the dilemma of food waste versus retailer profits and brand damage ('cost in brand damage of having empty shelves'). This matches 'Difficult choices for individuals and businesses'."
+      },
+      {
+        "id": "Q19",
+        "type": "choice",
+        "stem": "Paragraph F",
+        "options": [
+          "i New terminology reflecting changing attitudes to waste disposal",
+          "ii Fundamental changes in behaviour in the past and future",
+          "iii Ways of rewarding the public for recycling",
+          "iv A surprising approach to waste disposal by several countries",
+          "v Difficult choices for individuals and businesses",
+          "vi Arguments against incineration from a country that uses it",
+          "vii A number of justifications for the use of incineration"
+        ],
+        "correctAnswer": "ii",
+        "explanation": "Paragraph F discusses unexpected past changes (consumerism, recycling levels) and the need for future shifts in values and government leadership. This aligns with 'Fundamental changes in behaviour in the past and future'."
+      },
+      {
+        "id": "Q20",
+        "type": "choice",
+        "stem": "Ted Michaels",
+        "options": [
+          "A Incineration does not encourage responsible attitudes to waste disposal.",
+          "B Recycling can sometimes create serious problems for the future.",
+          "C Greater consumerism leads to higher levels of waste.",
+          "D Proper systems are needed for the recycling of environmentally-friendly products.",
+          "E Landfill is better for the environment than incineration.",
+          "F Incineration of waste is now relatively harmless to the environment.",
+          "G Efforts to reduce waste may affect profits for some types of companies."
+        ],
+        "correctAnswer": "F",
+        "explanation": "Paragraph B: Ted Michaels says, 'There has been constant evolution in combustion engineering... and the output from these facilities is now minuscule.' suggesting it is relatively harmless."
+      },
+      {
+        "id": "Q21",
+        "type": "choice",
+        "stem": "Joergen Fenhann",
+        "options": [
+          "A Incineration does not encourage responsible attitudes to waste disposal.",
+          "B Recycling can sometimes create serious problems for the future.",
+          "C Greater consumerism leads to higher levels of waste.",
+          "D Proper systems are needed for the recycling of environmentally-friendly products.",
+          "E Landfill is better for the environment than incineration.",
+          "F Incineration of waste is now relatively harmless to the environment.",
+          "G Efforts to reduce waste may affect profits for some types of companies."
+        ],
+        "correctAnswer": "C",
+        "explanation": "Paragraph C: Joergen Fenhann says, 'The more you develop, the more you produce, buy and throw away.'"
+      },
+      {
+        "id": "Q22",
+        "type": "choice",
+        "stem": "Joan Marc Simon",
+        "options": [
+          "A Incineration does not encourage responsible attitudes to waste disposal.",
+          "B Recycling can sometimes create serious problems for the future.",
+          "C Greater consumerism leads to higher levels of waste.",
+          "D Proper systems are needed for the recycling of environmentally-friendly products.",
+          "E Landfill is better for the environment than incineration.",
+          "F Incineration of waste is now relatively harmless to the environment.",
+          "G Efforts to reduce waste may affect profits for some types of companies."
+        ],
+        "correctAnswer": "D",
+        "explanation": "Paragraph D: Joan Marc Simon says, 'without the right mechanisms in place nothing guarantees that this bottle will end up being properly collected and treated...'"
+      },
+      {
+        "id": "Q23",
+        "type": "choice",
+        "stem": "Tim Burns",
+        "options": [
+          "A Incineration does not encourage responsible attitudes to waste disposal.",
+          "B Recycling can sometimes create serious problems for the future.",
+          "C Greater consumerism leads to higher levels of waste.",
+          "D Proper systems are needed for the recycling of environmentally-friendly products.",
+          "E Landfill is better for the environment than incineration.",
+          "F Incineration of waste is now relatively harmless to the environment.",
+          "G Efforts to reduce waste may affect profits for some types of companies."
+        ],
+        "correctAnswer": "G",
+        "explanation": "Paragraph E: Tim Burns discusses retailers losing money if people buy less food and supermarkets' costs for disposing of food versus empty shelves."
+      },
+      {
+        "id": "Q24",
+        "type": "filling",
+        "stem": "There has, for example, been unexpected growth in waste from 24 __________ products.",
+        "options": [],
+        "correctAnswer": "electronic",
+        "explanation": "Paragraph F: 'Nobody would have said there would be so much electronic waste.'",
+        "context": "What recent history tells us about recycling\nThere has, for example, been unexpected growth in waste from 24 __________ products."
+      },
+      {
+        "id": "Q25",
+        "type": "filling",
+        "stem": "He suggests that the need to protect the environment should be linked to basic values, and adds that it might be better if consumers had more influence over 25 __________",
+        "options": [],
+        "correctAnswer": "business",
+        "explanation": "Paragraph F: 'We need to look at whether it’s business that drives consumers or the other way around.'",
+        "context": "What recent history tells us about recycling\nHe suggests that the need to protect the environment should be linked to basic values, and adds that it might be better if consumers had more influence over 25 __________"
+      },
+      {
+        "id": "Q26",
+        "type": "filling",
+        "stem": "and more direction was provided by 26 __________.",
+        "options": [],
+        "correctAnswer": "government",
+        "explanation": "Paragraph F: 'You need government to play a leadership role...'",
+        "context": "What recent history tells us about recycling\nand more direction was provided by 26 __________."
+      }
+    ]
+  }

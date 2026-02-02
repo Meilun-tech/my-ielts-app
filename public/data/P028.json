@@ -1,0 +1,141 @@
+{
+    "id": "P028",
+    "title": "Book review: Triumph of the City",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Triumph of the City, by Edward Glaeser, is a thrilling and very readable hymn of praise to an invention so vast and so effective that it is generally taken for granted. More than half the global population already live in urban areas and, every month, five million more flood into the cities of the developed and developing worlds. The crowds and poverty of some of these modern cities may horrify us. They shouldn’t, says Glaeser; they are signs of growth, energy and aspiration. Cities are our best and brightest hope.\n\nThis idea has had more than two hundred years of resistance. Not long after the Industrial Revolution began in Britain, the Romantic poets turned away from the smoke and factories of their cities to celebrate the air and light of untouched nature. In 19th-century America, the writer Henry David Thoreau retreated to the wilderness of Walden Pond to live the solitary, simple life, and convinced generations of Americans that cities were bad and nature was good.\n\nThey had, Glaeser admits, a point. The early industrial cities were dirty, since they lacked efficient waste-disposal systems, and disease spread rapidly among the population. But more importantly they were profitable, and there were enormous commercial incentives to make them work, as well as political ones. Their transformation could be achieved at a stroke: in the second half of the 19th century, the French Emperor Napoleon III gave Baron Haussmann unrestricted power to turn the slum-infested city of Paris into one of the wonders and delights of the modern world. Or the transformation could be done by trial and error. Glaeser gives a brilliant account of the stop-start progression of New York to its late 20th-century position as the cultural and economic centre of the world. Either way, Paris, New York and other cities developed because they were truly effective markets of ideas and innovation.\n\nFor these and many other reasons, we should not be so upset by the spectacle of urban poverty. The poor flock to cities in the hope of becoming richer (which, by and large, they do). They also reinvigorate the economy of the city. It is folly to drive them away by forcing property prices to soar with unreasonable planning regulations. Instead, cities should build more houses and thereby hold property prices in check.\n\nIt can go wrong, of course. In Glaeser’s view, this is primarily because municipal authorities fail to understand the principal virtues of their cities. The heart of Paris, as many Parisians say, is turning into a museum because of the desire to preserve Baron Haussmann’s 19th-century boulevards. Glaeser defends their preservation, but argues that in the 1950s the French made a mistake in establishing a huge high-rise commercial development — La Défense — on the outskirts of the city. Far better, he says, to have turned the central area of Montparnasse into a new commercial district. This would have revitalised much of the city centre without destroying its fabric. In India, Mumbai could save itself from ever-more inefficient sprawl over the surrounding area simply by relaxing the rules presently imposed on the height of new constructions.\n\nIn America, it is the suburbs that have proved to be the real disaster. Glaeser is repentant on this subject himself. He moved to the suburbs when he had children. His entirely legitimate excuse is that the government made him (and millions like him) do it. By under-taxing petrol and imposing tight planning restrictions on inner cities that drove up the cost of property, it made flight to the suburbs more or less inevitable for the middle classes.\n\nThis is a disaster because nothing is more inefficient than a suburb. Suburbanites mingle less, and lose the face-to-face contact that makes being an urbanite so much more creative. Moreover, houses are costlier to heat and cool than flats, and suburbanites drive thousands more miles per year than city dwellers. Every aspect of life involves more consumption. This leads to the strongest and newest argument in favour of cities — they are good for the environment. To live in the country or the suburbs is to have a vastly larger carbon footprint than any urbanite.\n\nFull of characters and accessible information, this is a tremendous book, not least because, like me, you will find yourself constantly seeking reasons to disagree. Like the poor in the city, this is a sign of success. If you hate the city and get moist-eyed at the thought of the country then, one way or another, Glaeser is the man you will have to take on.",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "filling",
+        "stem": "– 1 _______",
+        "options": [],
+        "correctAnswer": "disease",
+        "explanation": "第三段第1句：“...cities were dirty, since they lacked efficient waste-disposal systems, and disease spread rapidly...” 早期城市除了肮脏（dirt）外另一问题是疾病蔓延。",
+        "context": "Cities\n• Problems with early cities\n– dirt\n– 1 _______"
+      },
+      {
+        "id": "Q2",
+        "type": "filling",
+        "stem": "but there were commercial and 2 _______ reasons for improving them",
+        "options": [],
+        "correctAnswer": "political",
+        "explanation": "第三段第2句：“But more importantly they were profitable, and there were enormous commercial incentives ... as well as political ones.”",
+        "context": "Cities\n• Problems with early cities\n– dirt\n– 1 _______\nbut there were commercial and 2 _______ reasons for improving them"
+      },
+      {
+        "id": "Q3",
+        "type": "filling",
+        "stem": "– generally get 3 _______",
+        "options": [],
+        "correctAnswer": "richer",
+        "explanation": "第四段第1句：“The poor flock to cities in the hope of becoming richer (which, by and large, they do).”",
+        "context": "Cities\n• Urban poverty is not a major problem because poor people\n– generally get 3 _______"
+      },
+      {
+        "id": "Q4",
+        "type": "filling",
+        "stem": "– help to develop the urban 4 _______",
+        "options": [],
+        "correctAnswer": "economy",
+        "explanation": "第四段第2句：“They also reinvigorate the economy of the city.”",
+        "context": "Cities\n• Urban poverty is not a major problem because poor people\n– generally get 3 _______\n– help to develop the urban 4 _______"
+      },
+      {
+        "id": "Q5",
+        "type": "filling",
+        "stem": "– the centre of Paris is becoming a 5 _______",
+        "options": [],
+        "correctAnswer": "museum",
+        "explanation": "第五段第3句：“The heart of Paris ... is turning into a museum ...”",
+        "context": "Cities\n• Cities do have some problems – e.g.\n– the centre of Paris is becoming a 5 _______"
+      },
+      {
+        "id": "Q6",
+        "type": "filling",
+        "stem": "– high 6 _______ prices in inner cities",
+        "options": [],
+        "correctAnswer": "property",
+        "explanation": "第六段第1句：“... tight planning restrictions on inner cities that drove up the cost of property ...”",
+        "context": "Cities\n• In the US, the middle classes have moved to the suburbs due to\n– cheap petrol\n– high 6 _______ prices in inner cities"
+      },
+      {
+        "id": "Q7",
+        "type": "filling",
+        "stem": "– less personal 7 _______",
+        "options": [],
+        "correctAnswer": "contact",
+        "explanation": "第七段第1句：“Suburbanites mingle less, and lose the face-to-face contact ...”",
+        "context": "Cities\n• Disadvantages of suburbs\n– less personal 7 _______"
+      },
+      {
+        "id": "Q8",
+        "type": "filling",
+        "stem": "– increased 8 _______ of resources such as heating – which damages the environment",
+        "options": [],
+        "correctAnswer": "consumption",
+        "explanation": "第七段第3句：“Every aspect of life involves more consumption.”",
+        "context": "Cities\n• Disadvantages of suburbs\n– less personal 7 _______\n– increased 8 _______ of resources such as heating – which damages the environment"
+      },
+      {
+        "id": "Q9",
+        "type": "tfng",
+        "stem": "Glaeser believes that congestion and poverty in some modern cities indicate serious problems.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "第一段末：“The crowds and poverty... They shouldn’t, says Glaeser; they are signs of growth, energy and aspiration.” —— 他认为这不是坏事，而是增长和活力的象征。"
+      },
+      {
+        "id": "Q10",
+        "type": "tfng",
+        "stem": "The writer Henry David Thoreau discussed the ideas of the Romantic poets in his work.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "第二段提到 Thoreau 提倡“solitary, simple life”，但未提及他是否讨论了 Romantic poets 的观点。"
+      },
+      {
+        "id": "Q11",
+        "type": "tfng",
+        "stem": "Emperor Napoleon III was influenced by the complaints of poor people living in Paris.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "文中提到拿破仑三世授权 Haussmann 改建巴黎，但未提及是否是受穷人抱怨影响。"
+      },
+      {
+        "id": "Q12",
+        "type": "tfng",
+        "stem": "Strict planning regulations may be beneficial for a city’s development.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "第四段：“It is folly to drive them away by forcing property prices to soar with unreasonable planning regulations.” —— 作者认为不合理的规划法规是愚蠢的。"
+      },
+      {
+        "id": "Q13",
+        "type": "tfng",
+        "stem": "Glaeser argues that the location of commercial development at La Défense was a bad idea.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "第五段：“Glaeser ... argues that ... the French made a mistake in establishing a huge high-rise commercial development — La Défense — on the outskirts of the city.”"
+      }
+    ]
+  }

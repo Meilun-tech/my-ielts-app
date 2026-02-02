@@ -1,0 +1,147 @@
+{
+    "id": "P006",
+    "title": "Categorizing societies",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "When research scholars, including archaeologists and anthropologists, study societies past or present, it can be very useful to have a system of ranking against which to test their ideas. A four-fold categorizing system was developed by the American anthropologist Elman Service; each grouping is associated with certain types of site and settlement. The four types are known as bands, tribes, chiefdoms and early states.\n\nBands\nThese are small-scale societies, generally of fewer than 100 people, who live by hunting and gathering, moving seasonally to take advantage of wild (undomesticated) food sources. Most groups who live in this way today, such as the Hadza of Tanzania or the San of southern Africa, would be classified as bands. The members of one band are generally related to each other, either by descent or by marriage. Bands lack formal leaders, so there are no clear economic differences or other differences in status among the members. Because bands are composed of mobile groups, their sites consist mainly of seasonally occupied camps and some other sites, such as work sites, where tools are made or other specific activities are carried out. Archaeological sites associated with this type of society may show evidence of insubstantial dwellings, along with the debris of residential occupation. Most sites from the Palaeolithic period (more than 12,000 years ago) seem to be associated with groups of this type.\n\nTribes\nThese are generally larger than bands but rarely number more than a few thousand people, whose diet is mainly based on plants or domestic animals. Typically, these people are settled farmers, but for some groups life is nomadic, with a mobile economy based on herds of animals. Although some tribes have officials, these lack the economic base necessary for effective use of power. The typical settlement pattern for tribes is one of permanent agricultural homesteads or villages. Characteristically, no one settlement dominates any of the others in the region. Instead, the archaeologist often finds evidence of isolated, permanently occupied houses, or permanent villages. These latter may be made up of a collection of free-standing houses like those of the first farmers of the Danube Valley in Europe, or their houses may be grouped together, as in the pueblos of the American Southwest, or the early farming village of Catalhoyuk in what is now Turkey.\n\nChiefdoms\nThese operate on the principle of ranking—differences in social status between people. Different lineages (groups claiming descent from a common ancestor) are graded on a scale of prestige, and the senior lineage, and hence the society as a whole, is governed by a chief. Prestige and rank are determined by how closely related one is to the chief, and there is no true stratification into classes. The role of the chief is crucial.\n\nOften, there is local specialisation in craft products such as pottery, cloth and leatherware, and any surplus of these and of foodstuffs is periodically paid to the chief. He uses these to pay his retainers and may also redistribute them to his subjects as rewards. The chiefdom generally has a centre of power, often with temples, residences of the chief and his retainers, and craft specialists. Chiefdoms vary greatly in size, but the range is generally between 5,000 and 20,000 persons. Chiefdoms give indications that some sites were more important than others and may have operated as permanent ritual and ceremonial centres, although they were not centres with an established bureaucracy. Examples are Moundville in Alabama, USA, or the late-Neolithic monuments of Wessex in southern Britain, including the famous ceremonial centre of Stonehenge.\n\nEarly states\nThese preserve many of the features of chiefdoms, but the ruler, perhaps a king or queen, has explicit authority to establish laws and to enforce them by means of a standing army. The society no longer depends on kin relationships but is stratified into different classes. Agricultural workers and the poorer urban dwellers make up the base of the pyramid, with the craft specialists above them and the priests and relatives of the ruler higher still. The society is regarded as a territory owned by the ruling lineage and populated by tenants who have the obligation to pay taxes. The central capital houses the officials of a bureaucratic administration. One of their main functions is to collect revenue (often in the form of taxes and tolls) and distribute it to government, army and craft specialists. Many early states developed complex redistribution systems to support these essential services.\n\nEarly-state societies show a characteristic settlement pattern in which cities play the predominant part. The city is typically a large population centre of more than 5,000 people, with major public buildings, and often there is a pronounced settlement hierarchy with the capital city as the major centre and subsidiary or regional centres as well as local villages.\n\nCertainly, it would be wrong to over-emphasise the importance of the four types of society given above, or to spend too long agonising as to whether a particular society should be classified in one category or another. However, in seeking to talk about early societies, we must use words and hence concepts to do so. Elman Service’s categories provide us with a good framework to organise our thoughts. They should not, however, deflect us from focusing on changes over time in the different institutions of a society, whether in the social sphere, the organisation of the food quest, technology, contact and exchange, or the spiritual life.",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "tfng",
+        "stem": "There is usually little difference in wealth between the various members of a band.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "文中指出“there are no clear economic differences ... among the members”，明确说明财富/经济差异很小。"
+      },
+      {
+        "id": "Q2",
+        "type": "tfng",
+        "stem": "In tribes, farmers typically grow a wide range of food plants.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "文章只说部落“饮食主要基于植物或家养动物”，未提及是否种植种类繁多。"
+      },
+      {
+        "id": "Q3",
+        "type": "tfng",
+        "stem": "A typical tribe has one settlement which is more important than others.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "与题干“一处定居点更重要”相反，文中说“no one settlement dominates any of the others”。"
+      },
+      {
+        "id": "Q4",
+        "type": "tfng",
+        "stem": "In a chiefdom, social status usually depends on the amount of land a person owns.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "FALSE",
+        "explanation": "地位与血缘而非土地多少相关（“Prestige and rank are determined by how closely related one is to the chief”）。"
+      },
+      {
+        "id": "Q5",
+        "type": "tfng",
+        "stem": "A chiefdom typically contains some workers who are engaged in making goods.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "说明有工匠从事手工业（“local specialisation in craft products such as pottery, cloth...”）。"
+      },
+      {
+        "id": "Q6",
+        "type": "tfng",
+        "stem": "An early state may depend on military power to maintain law and order.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "TRUE",
+        "explanation": "依靠军事力量维持秩序（“the ruler ... enforces [laws] by means of a standing army”）。"
+      },
+      {
+        "id": "Q7",
+        "type": "tfng",
+        "stem": "Bureaucratic officials in early states receive higher salaries than any other workers.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "仅提官员收税再分配，未说工资高于他人。"
+      },
+      {
+        "id": "Q8",
+        "type": "filling",
+        "stem": "What items do bands produce at work sites?",
+        "options": [],
+        "correctAnswer": "tools",
+        "explanation": "Bands 段：...work sites, where tools are made...",
+        "context": "Questions 8-13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.\n8 What items do bands produce at work sites?"
+      },
+      {
+        "id": "Q9",
+        "type": "filling",
+        "stem": "Which way of life, apart from settled farming, may be followed by people in tribes?",
+        "options": [],
+        "correctAnswer": "nomadic",
+        "explanation": "Tribes 段：for some groups life is nomadic...",
+        "context": "Questions 8-13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.\n9 Which way of life, apart from settled farming, may be followed by people in tribes?"
+      },
+      {
+        "id": "Q10",
+        "type": "filling",
+        "stem": "How were houses arranged in the village of Catalhoyuk?",
+        "options": [],
+        "correctAnswer": "grouped together",
+        "explanation": "Tribes 段：...their houses may be grouped together, as in ... Catalhoyuk",
+        "context": "Questions 8-13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.\n10 How were houses arranged in the village of Catalhoyuk?"
+      },
+      {
+        "id": "Q11",
+        "type": "filling",
+        "stem": "Which items, apart from craft goods, may be given by a chief to members of his chiefdom?",
+        "options": [],
+        "correctAnswer": "foodstuffs",
+        "explanation": "Chiefdoms 段：surplus ... foodstuffs is periodically paid to the chief. He ... redistribute[s] them...",
+        "context": "Questions 8-13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.\n11 Which items, apart from craft goods, may be given by a chief to members of his chiefdom?"
+      },
+      {
+        "id": "Q12",
+        "type": "filling",
+        "stem": "What is usually the maximum number of people living in a society which has a chief?",
+        "options": [],
+        "correctAnswer": "20,000",
+        "explanation": "Chiefdoms 段：the range is generally between 5,000 and 20,000 persons",
+        "context": "Questions 8-13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.\n12 What is usually the maximum number of people living in a society which has a chief?"
+      },
+      {
+        "id": "Q13",
+        "type": "filling",
+        "stem": "Apart from less wealthy inhabitants of cities, which group forms the lowest class in an early state?",
+        "options": [],
+        "correctAnswer": "agricultural workers",
+        "explanation": "Early states 段：Agricultural workers and the poorer urban dwellers make up the base of the pyramid",
+        "context": "Questions 8-13\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS AND / OR A NUMBER from the passage for each answer.\n13 Apart from less wealthy inhabitants of cities, which group forms the lowest class in an early state?"
+      }
+    ]
+  }
