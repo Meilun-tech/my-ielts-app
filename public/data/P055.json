@@ -1,0 +1,194 @@
+{
+    "id": "P055",
+    "title": "The plan to bring an asteroid to Earth",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "The plan to bring an asteroid to Earth\nMoving in orbit around our Sun are millions of rocks known as asteroids.\nNow scientists have plans to capture one.\n\nA Send a robot into space, catch an asteroid and bring it back to Earth’s orbit. This, say scientists and engineers at the California Institute of Technology (Caltech), could be feasible. A four-day workshop was dedicated to investigating the feasibility of capturing a near-Earth asteroid, bringing it closer to our planet and using it as a base for future manned space-flight missions.\n\nThis is not something the scientists are imagining could be done someday in the future. It is possible with the technology we have today and could be accomplished within a decade. A robotic probe could anchor to an asteroid with simple magnets or grab it with specialised claws. Alternatively, a large spacecraft could use its gravitational field to shift the orbit of a larger asteroid, sending it towards Earth.\n\n‘Once you get over the initial reaction — You want to do what?! — it actually starts to seem like a reasonable idea,’ says engineer John Brophy, who helped organise the workshop. In fact, many of these ideas have been on the drawing board for years as part of NASA’s planetary-defence programme against large space-based objects that might threaten Earth. And there’s no shortage of potential targets: NASA estimates there are 19 500 asteroids at least 100 metres wide within 45 million kilometres of Earth.\n\nB Though rearranging the heavens may seem an excessive undertaking, this US mission has its merits. The US already has plans to send astronauts to a near-Earth asteroid, a mission that would mean confining them in a tiny capsule for three to six months and would involve all the risks of a deep-space voyage. Instead, robots could bring an asteroid close enough for them to get there in just a month.\n\nAn asteroid would provide a stationary base from which to launch missions further into space. There are several advantages to this. For one, launching missions carrying materials from Earth requires a lot of power, fuel and, consequently, money, because of our planet’s strong force of gravity. Since this would be far weaker on an asteroid, materials mined there could be more easily taken off the asteroid and shuttled around the solar system.\n\nMany asteroids have a lot to offer. Some are rich in metals, which can be mined and used to build space-based habitats, or brought back to Earth. Others are up to one-quarter water, which could be used for life-support or broken down into hydrogen and oxygen to make fuel. Astronomers would also have the chance to get a close-up look at one of the solar system’s earliest relics, generating important scientific data. ‘Executing the asteroid-retrieval plan would help demonstrate and greatly expand mankind’s space-based engineering capabilities,’ says engineer Louis Friedman, another co-organiser of the Caltech workshop. For instance, the mission would teach engineers how to capture an unco-operative target, which could be useful practice for planetary-defence missions in the event of a threat from a meteoroid or comet approaching our planet,’ he adds.\n\nC Former astronaut Rusty Schweickart, co-founder of the B612 Foundation, an organisation dedicated to protecting Earth from asteroid strikes, points out that although it would be technically feasible, shifting such a hefty and substantial target would not be easy: ‘You’re moving the largest mother-lode imaginable,’ he says.\n\nEngineers would need to be absolutely certain they could control such a potentially dangerous object. ‘It’s the opposite of planetary defence; if you do something wrong you have a Tunguska event,’ says engineer Marco Tantardini from the Planetary Society, referring to the powerful 1908 explosion above a remote Russian region thought to have been caused by a meteoroid or comet.\n\nD Still, these obstacles only add to the appeal of the project for engineers, who love to go over every potential difficulty in order to solve it. And if the challenges posed by a large asteroid seem too daunting, researchers could always start with a smaller asteroid, perhaps two to ten metres across. Last year, Brophy helped conduct a study to look at the feasibility of bringing a two-metre, 1 000-kilogram asteroid — of which there might conceivably be millions — to the International Space Station. The study suggested the asteroid could be captured robotically in something as simple as a large bag. Of course, such a small object might not have the same emotional impact as a larger target. ‘NASA isn’t going to want to go to something that is smaller than our spaceships,’ says engineer Dan Mazanek from NASA’s Langley Research Center.\n\nE No matter the size of the asteroid, these plans would require hefty investments. Even capturing a small asteroid would consume at least a billion dollars. Convincing taxpayers to foot such a bill could be difficult. However, private industry might be interested in getting involved. One possibility would be to push the asteroid into near-Earth orbit and then invite anyone who wants to develop the capabilities to reach and mine the object.\n\nHowever, although the undertaking might be scientifically exciting and provide great insight into the solar system’s formation, this is not enough on its own to justify the expense of bringing an asteroid to Earth. Investigations of asteroids can be done much more cheaply with an unmanned spacecraft, says chemist Joseph A. Nuth from NASA’s Goddard Space Flight Center. According to Brophy, ultimately we would be working towards bringing an asteroid closer to Earth in order to help humanity move out into the solar system.",
+    "questions": [
+      {
+        "id": "Q14",
+        "type": "choice",
+        "stem": "Section A",
+        "options": [
+          "i The need for skill and care",
+          "ii Choosing the richest asteroid",
+          "iii The safest way to protect an asteroid",
+          "iv Obtaining support for the project",
+          "v An achievable goal, not an impossible dream",
+          "vi The need for global cooperation",
+          "vii Beginning with a less challenging task",
+          "viii Practical, economic and research justifications"
+        ],
+        "correctAnswer": "v",
+        "explanation": "A段：“It is possible with the technology we have today and could be accomplished within a decade.” -> 不是梦想，是可实现的。"
+      },
+      {
+        "id": "Q15",
+        "type": "choice",
+        "stem": "Section B",
+        "options": [
+          "i The need for skill and care",
+          "ii Choosing the richest asteroid",
+          "iii The safest way to protect an asteroid",
+          "iv Obtaining support for the project",
+          "v An achievable goal, not an impossible dream",
+          "vi The need for global cooperation",
+          "vii Beginning with a less challenging task",
+          "viii Practical, economic and research justifications"
+        ],
+        "correctAnswer": "viii",
+        "explanation": "B段列举了 bringing asteroid 的理由：safer/faster for astronauts (Practical), stationary base/resources/money (Economic), scientific data (Research)。"
+      },
+      {
+        "id": "Q16",
+        "type": "choice",
+        "stem": "Section C",
+        "options": [
+          "i The need for skill and care",
+          "ii Choosing the richest asteroid",
+          "iii The safest way to protect an asteroid",
+          "iv Obtaining support for the project",
+          "v An achievable goal, not an impossible dream",
+          "vi The need for global cooperation",
+          "vii Beginning with a less challenging task",
+          "viii Practical, economic and research justifications"
+        ],
+        "correctAnswer": "i",
+        "explanation": "C段：“Engineers would need to be absolutely certain they could control such a potentially dangerous object... if you do something wrong you have a Tunguska event” -> Need skill and care。"
+      },
+      {
+        "id": "Q17",
+        "type": "choice",
+        "stem": "Section D",
+        "options": [
+          "i The need for skill and care",
+          "ii Choosing the richest asteroid",
+          "iii The safest way to protect an asteroid",
+          "iv Obtaining support for the project",
+          "v An achievable goal, not an impossible dream",
+          "vi The need for global cooperation",
+          "vii Beginning with a less challenging task",
+          "viii Practical, economic and research justifications"
+        ],
+        "correctAnswer": "vii",
+        "explanation": "D段：“researchers could always start with a smaller asteroid... simple as a large bag.” -> Less challenging task。"
+      },
+      {
+        "id": "Q18",
+        "type": "choice",
+        "stem": "Section E",
+        "options": [
+          "i The need for skill and care",
+          "ii Choosing the richest asteroid",
+          "iii The safest way to protect an asteroid",
+          "iv Obtaining support for the project",
+          "v An achievable goal, not an impossible dream",
+          "vi The need for global cooperation",
+          "vii Beginning with a less challenging task",
+          "viii Practical, economic and research justifications"
+        ],
+        "correctAnswer": "iv",
+        "explanation": "E段：“Convincing taxpayers to foot such a bill could be difficult. However, private industry might be interested in getting involved.” -> Obtaining support。"
+      },
+      {
+        "id": "Q19",
+        "type": "choice",
+        "stem": "Louis Friedman",
+        "options": [
+          "A A mistake could have serious consequences for Earth.",
+          "B It might be difficult to arouse interest in an asteroid of limited size.",
+          "C The project could be an early step in space exploration.",
+          "D An asteroid’s weight makes the project extremely challenging.",
+          "E The skill gained could save Earth from future danger.",
+          "F An asteroid could be a useful landing place for a spaceship.",
+          "G Capturing an asteroid would not be an efficient method of research."
+        ],
+        "correctAnswer": "E",
+        "explanation": "B段 Louis Friedman：“mission would teach engineers how to capture an unco-operative target, which could be useful practice for planetary-defence missions” -> Save Earth from future danger。"
+      },
+      {
+        "id": "Q20",
+        "type": "choice",
+        "stem": "Rusty Schweickart",
+        "options": [
+          "A A mistake could have serious consequences for Earth.",
+          "B It might be difficult to arouse interest in an asteroid of limited size.",
+          "C The project could be an early step in space exploration.",
+          "D An asteroid’s weight makes the project extremely challenging.",
+          "E The skill gained could save Earth from future danger.",
+          "F An asteroid could be a useful landing place for a spaceship.",
+          "G Capturing an asteroid would not be an efficient method of research."
+        ],
+        "correctAnswer": "D",
+        "explanation": "C段 Rusty Schweickart：“shifting such a hefty and substantial target would not be easy... largest mother-lode imaginable” -> Weight makes it challenging。"
+      },
+      {
+        "id": "Q21",
+        "type": "choice",
+        "stem": "Dan Mazanek",
+        "options": [
+          "A A mistake could have serious consequences for Earth.",
+          "B It might be difficult to arouse interest in an asteroid of limited size.",
+          "C The project could be an early step in space exploration.",
+          "D An asteroid’s weight makes the project extremely challenging.",
+          "E The skill gained could save Earth from future danger.",
+          "F An asteroid could be a useful landing place for a spaceship.",
+          "G Capturing an asteroid would not be an efficient method of research."
+        ],
+        "correctAnswer": "B",
+        "explanation": "D段 Dan Mazanek：“NASA isn’t going to want to go to something that is smaller than our spaceships” -> Difficult to arouse interest in limited size。"
+      },
+      {
+        "id": "Q22",
+        "type": "choice",
+        "stem": "Joseph A. Nuth",
+        "options": [
+          "A A mistake could have serious consequences for Earth.",
+          "B It might be difficult to arouse interest in an asteroid of limited size.",
+          "C The project could be an early step in space exploration.",
+          "D An asteroid’s weight makes the project extremely challenging.",
+          "E The skill gained could save Earth from future danger.",
+          "F An asteroid could be a useful landing place for a spaceship.",
+          "G Capturing an asteroid would not be an efficient method of research."
+        ],
+        "correctAnswer": "G",
+        "explanation": "E段 Joseph A. Nuth：“Investigations of asteroids can be done much more cheaply with an unmanned spacecraft” -> Capturing is not efficient for research。"
+      },
+      {
+        "id": "Q23",
+        "type": "filling",
+        "stem": "An asteroid could also act as a 23 ______ for further space travel and exploration.",
+        "options": [],
+        "correctAnswer": "base",
+        "explanation": "B段：“An asteroid would provide a stationary base from which to launch missions further into space.”",
+        "context": "The merits of the US mission\nAn asteroid could also act as a 23 ______ for further space travel and exploration."
+      },
+      {
+        "id": "Q24",
+        "type": "filling",
+        "stem": "The fact that an asteroid would have weaker 24 ______ would allow easier movement of resources.",
+        "options": [],
+        "correctAnswer": "gravity",
+        "explanation": "B段：“Since this [gravity] would be far weaker on an asteroid...”",
+        "context": "The merits of the US mission\nThe fact that an asteroid would have weaker 24 ______ would allow easier movement of resources."
+      },
+      {
+        "id": "Q25",
+        "type": "filling",
+        "stem": "These resources include 25 ______ which could be used in space or on Earth",
+        "options": [],
+        "correctAnswer": "metals",
+        "explanation": "B段：“Some are rich in metals... used to build space-based habitats, or brought back to Earth.”",
+        "context": "The merits of the US mission\nThese resources include 25 ______ which could be used in space or on Earth"
+      },
+      {
+        "id": "Q26",
+        "type": "filling",
+        "stem": "and 26 ______ which could be consumed or used as a source of power.",
+        "options": [],
+        "correctAnswer": "water",
+        "explanation": "B段：“Others are up to one-quarter water, which could be used for life-support or broken down into hydrogen and oxygen to make fuel.”",
+        "context": "The merits of the US mission\nand 26 ______ which could be consumed or used as a source of power."
+      }
+    ]
+  }
