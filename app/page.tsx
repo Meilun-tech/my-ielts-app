@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react"
 import { useRouter } from "next/navigation"
+import DailyCheckIn from "@/components/DailyCheckIn"
 
 type ReadingMeta = {
   id: string
@@ -73,6 +74,8 @@ export default function Page() {
         <h1 className="mb-6 text-2xl font-bold text-gray-900">
           📖 雅思阅读练习
         </h1>
+
+        <DailyCheckIn />
 
         <div className="hidden md:block overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm">
           <table className="w-full">
