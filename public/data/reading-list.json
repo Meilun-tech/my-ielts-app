@@ -328,5 +328,35 @@
     "title": "The plan to bring an asteroid to Earth",
     "difficulty": "Medium",
     "timeLimit": 20
+  },
+  {
+    "id": "P056",
+    "title": "The Return of Monkey Life",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P057",
+    "title": "The Tasmanian Tiger",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P058",
+    "title": "Who wrote Shakespeare's plays?",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P059",
+    "title": "Why do we need the arts?",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P060",
+    "title": "A closer examination of a study on verbal and non-verbal messages",
+    "difficulty": "Medium",
+    "timeLimit": 20
   }
 ]
