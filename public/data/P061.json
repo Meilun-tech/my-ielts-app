@@ -1,0 +1,243 @@
+{
+    "id": "P061",
+    "title": "The Discovery of Slowness",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Book Review:\nThe Discovery of Slowness by Sten Nadolny, translated by Ralph Freedman | Canongate, 311 pp\n\nA The English explorer and writer John Franklin (1786–1847) joined the Navy at the age of 14, and fought at the battle of Trafalgar. When peace came, he turned his attention to Arctic exploration, and in particular to solving the conundrum of the Northwest Passage, a mythical clear-water route through the ice which would, if it existed, link the Pacific Ocean on America’s West Coast with the Atlantic on its East. The first expedition Franklin led to the Arctic was an arduous overland journey lasting from 1819 to 1822, in which he and his twenty-strong team covered 8,880 kilometres on foot. Their expedition was a triumph of surveying – they managed to chart hundreds of kilometres of previously unknown coastline – but food ran out on their journey back to civilisation, and the men were forced to eat their belts and their boots (which they boiled up to make leather soup).\n\nB There followed a career as a travel writer and public speaker (‘the man who ate his boots’ was Franklin’s tag-line). Then in 1845, Franklin set off back to the Arctic with two ships – the Erebus and the Terror – and 129 men. Nothing was heard of them for 14 years, although more than 30 expeditions were dispatched in search of them. Eventually it was discovered that Franklin and all his team had perished after their ships were trapped in the ice.\n\nC In his personal correspondence and published memoirs, Franklin comes across as a man dedicated to the external duties of war and exploration, who kept introspection and self-analysis to a minimum. His blandness makes him an amenably malleable subject for a novelist, and Sten Nadolny has taken full advantage of this in his book. Most important, Nadolny has endowed John Franklin with a defining trait for which there is no historical evidence: Langsamkeit (‘slowness’, or ‘calmness’).\n\nD Slowness influences not only Franklin’s behaviour, but also his vision, his thought and his speech. The opening scene of The Discovery of Slowness depicts Franklin as a young boy, failing to catch a ball because his reaction time is too slow. Despite the bullying of his peers, Franklin resolves not to fall into step with ‘their way of doing things’. For Nadolny, Franklin’s fascination with the Arctic stems from his desire to find an environment suited to his peculiar slowness. He describes Franklin as a boy dreaming of the ‘time without hours and days’ which exists in the far north, a place ‘where nobody would find him too slow’.\n\nE Ice is a slow mover. The compressed blue ice inside an Alpine crevasse will have fallen as snow several decades earlier. Polar pack ice takes at least two years to form. The film of crystals which first appears on the surface of the sea thickens into a silkily pliant layer called nilas; this in turn consolidates into young ice, which then deepens during several seasons to become pack. Ice demands a corresponding patience from those who venture onto it. The explorers who have thrived at high latitudes and at high altitudes haven’t usually been men of great speed. They have tended instead to demonstrate unusual self-possession, a considerable capacity for boredom, and a talent for the uncomplaining endurance of suffering.\n\nF These were all qualities which the historical Franklin possessed in abundance, and so Nadolny’s exaggeration of them isn’t unreasonable. Even as an adult, Franklin’s slowness of thought means that he is unable to speak fluently, so he learns by heart ‘entire fleets of words and batteries of responses’, and speaks a languid, bric-à-brac language. In the Navy, his method of thinking first and acting later initially provokes mockery from his fellow sailors. But Franklin persists in doing things his way, and gradually earns the respect of those around him. To a commodore who tells him to speed up his report of an engagement, he replies: ‘When I tell something, sir, I use my own rhythm.’ A lieutenant says approvingly of him: ‘Because Franklin is so slow, he never loses time.’\n\nG Nadolny also brings his central metaphor of slowness to bear on the novel’s language. The chapters describing Franklin’s early years are a medley of separate fragments, rhetorical questions, associative jumps and exclamation marks. In the later sections recounting Franklin’s first Arctic expedition, Nadolny brilliantly sets the narrative pace to the rhythms of the frozen landscape, and to the ‘slowness which is bred by hunger’.\n\nH Since it was first published in Germany in 1983, The Discovery of Slowness has sold more than a million copies and been translated into 15 languages. It has been adopted as a manual and manifesto by European pressure groups and institutions representing causes as diverse as sustainable development, management science and motoring policy, even becoming involved in the debate about speed limits on German roads. The various groups that have taken the novel up have one thing in common: a dislike of the high-speed culture of Post-modernity. Nadolny’s Franklin appeals to them because he is immune to ‘the compulsion to be constantly occupied’, and to the idea that ‘someone was better if he could do the same thing fast’. It’s easy to see where the attraction lies for those in management. The novel is crammed with quotations about time-efficiency, punctiliousness and profitability: ‘What did “too late” mean? They hadn’t waited for it long enough, that’s what it meant.’",
+    "questions": [
+      {
+        "id": "Q27",
+        "type": "choice",
+        "stem": "a summary of Franklin’s occupation in the period before his first expedition",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph A",
+        "explanation": "A段：“joined the Navy at the age of 14, and fought at the battle of Trafalgar. When peace came, he turned his attention to Arctic exploration...”"
+      },
+      {
+        "id": "Q28",
+        "type": "choice",
+        "stem": "a reference to a feature of Franklin’s character in Nadolny’s novel that has no definite basis in fact",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph C",
+        "explanation": "C段：“Nadolny has endowed John Franklin with a defining trait for which there is no historical evidence: Langsamkeit (‘slowness’...)”"
+      },
+      {
+        "id": "Q29",
+        "type": "choice",
+        "stem": "a connection between the central theme of the novel and an environmental process",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph E",
+        "explanation": "E段：“Ice is a slow mover... Ice demands a corresponding patience...” 将冰的缓慢形成过程（环境过程）与小说主题联系起来。"
+      },
+      {
+        "id": "Q30",
+        "type": "choice",
+        "stem": "a reference to the widespread appeal of Nadolny’s novel",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph H",
+        "explanation": "H段：“sold more than a million copies and been translated into 15 languages. It has been adopted as a manual... by European pressure groups...”"
+      },
+      {
+        "id": "Q31",
+        "type": "choice",
+        "stem": "a summary of events following Franklin’s return from his first expedition",
+        "options": [
+          "Paragraph A",
+          "Paragraph B",
+          "Paragraph C",
+          "Paragraph D",
+          "Paragraph E",
+          "Paragraph F",
+          "Paragraph G",
+          "Paragraph H"
+        ],
+        "correctAnswer": "Paragraph B",
+        "explanation": "B段：“There followed a career as a travel writer... Then in 1845, Franklin set off back...”"
+      },
+      {
+        "id": "Q32",
+        "type": "choice",
+        "stem": "Little is known from Franklin’s correspondence and published writings about his 32 ________.",
+        "options": [
+          "A a bully",
+          "B discoveries",
+          "C educational",
+          "D family",
+          "E isolation",
+          "F an outsider",
+          "G personality",
+          "H problems",
+          "I remoteness",
+          "J a scholar",
+          "K sporting",
+          "L timelessness"
+        ],
+        "correctAnswer": "G",
+        "explanation": "C段：“kept introspection and self-analysis to a minimum.” 对应 G personality。"
+      },
+      {
+        "id": "Q33",
+        "type": "choice",
+        "stem": "He begins the book by showing how this affects the young Franklin’s 33 ________ activities,",
+        "options": [
+          "A a bully",
+          "B discoveries",
+          "C educational",
+          "D family",
+          "E isolation",
+          "F an outsider",
+          "G personality",
+          "H problems",
+          "I remoteness",
+          "J a scholar",
+          "K sporting",
+          "L timelessness"
+        ],
+        "correctAnswer": "K",
+        "explanation": "D段：“failing to catch a ball because his reaction time is too slow.” 对应 K sporting。"
+      },
+      {
+        "id": "Q34",
+        "type": "choice",
+        "stem": "and makes him become 34 ________.",
+        "options": [
+          "A a bully",
+          "B discoveries",
+          "C educational",
+          "D family",
+          "E isolation",
+          "F an outsider",
+          "G personality",
+          "H problems",
+          "I remoteness",
+          "J a scholar",
+          "K sporting",
+          "L timelessness"
+        ],
+        "correctAnswer": "F",
+        "explanation": "D段：“resolves not to fall into step with ‘their way of doing things’.” 对应 F an outsider。"
+      },
+      {
+        "id": "Q35",
+        "type": "choice",
+        "stem": "As a child, it is the quality of 35 ________ that attracts Franklin to the Arctic.",
+        "options": [
+          "A a bully",
+          "B discoveries",
+          "C educational",
+          "D family",
+          "E isolation",
+          "F an outsider",
+          "G personality",
+          "H problems",
+          "I remoteness",
+          "J a scholar",
+          "K sporting",
+          "L timelessness"
+        ],
+        "correctAnswer": "L",
+        "explanation": "D段：“dreaming of the ‘time without hours and days’...” 对应 L timelessness。"
+      },
+      {
+        "id": "Q36",
+        "type": "choice",
+        "stem": "In paragraph E, the writer describes different types of ice in order to illustrate",
+        "options": [
+          "A the extreme conditions that Polar explorers have to face.",
+          "B the unusual quality of the beauty of Polar regions.",
+          "C the vital importance of preserving the Arctic environment.",
+          "D the personal qualities required of an explorer in Arctic conditions."
+        ],
+        "correctAnswer": "D",
+        "explanation": "E段：“Ice demands a corresponding patience from those who venture onto it... demonstrated... a talent for the uncomplaining endurance...”"
+      },
+      {
+        "id": "Q37",
+        "type": "choice",
+        "stem": "What is said about the way Franklin communicates?",
+        "options": [
+          "A He expresses a very limited range of ideas.",
+          "B He is only willing to discuss things he is familiar with.",
+          "C He uses words and phrases that he has previously memorised.",
+          "D He is only fluent when talking about naval matters."
+        ],
+        "correctAnswer": "C",
+        "explanation": "F段：“he learns by heart ‘entire fleets of words and batteries of responses’...”"
+      },
+      {
+        "id": "Q38",
+        "type": "choice",
+        "stem": "How does the attitude of the other sailors change towards Franklin?",
+        "options": [
+          "A They no longer notice his slowness.",
+          "B They start to copy his approach to work.",
+          "C They begin to recognise his efforts to overcome his problems.",
+          "D They eventually appreciate his good qualities."
+        ],
+        "correctAnswer": "D",
+        "explanation": "F段：“gradually earns the respect... ‘Because Franklin is so slow, he never loses time.’”"
+      },
+      {
+        "id": "Q39",
+        "type": "choice",
+        "stem": "The chapters of The Discovery of Slowness which describe Franklin’s early years contain",
+        "options": [
+          "A text from a wide variety of sources.",
+          "B short, disconnected pieces of text.",
+          "C descriptions of the Arctic landscape.",
+          "D information about other explorers like Franklin."
+        ],
+        "correctAnswer": "B",
+        "explanation": "G段：“a medley of separate fragments, rhetorical questions, associative jumps and exclamation marks.”"
+      },
+      {
+        "id": "Q40",
+        "type": "choice",
+        "stem": "The Discovery of Slowness has achieved widespread popularity because",
+        "options": [
+          "A it reflects many people’s concern about one aspect of modern life.",
+          "B it offers achievable solutions to many of the problems of today.",
+          "C it tells the story of someone’s triumph over personal problems.",
+          "D it shows how life in the past was less pressured than it is now."
+        ],
+        "correctAnswer": "A",
+        "explanation": "H段：“The various groups... have one thing in common: a dislike of the high-speed culture of Post-modernity.”"
+      }
+    ]
+  }

@@ -358,5 +358,35 @@
     "title": "A closer examination of a study on verbal and non-verbal messages",
     "difficulty": "Medium",
     "timeLimit": 20
+  },
+  {
+    "id": "P061",
+    "title": "The Discovery of Slowness",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P062",
+    "title": "Evolutionary Psychology in Business",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P063",
+    "title": "Crossing the Threshold",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P064",
+    "title": "Decisions, decisions!",
+    "difficulty": "Medium",
+    "timeLimit": 20
+  },
+  {
+    "id": "P065",
+    "title": "Does Class Size Matter?",
+    "difficulty": "Medium",
+    "timeLimit": 20
   }
 ]

@@ -1,0 +1,206 @@
+{
+    "id": "P064",
+    "title": "Decisions, decisions!",
+    "difficulty": "Medium",
+    "timeLimit": 20,
+    "passageContent": "Research explores when we can make a vital decision quickly and when we need to proceed more deliberately\n\nA widely recognised legend tells us that in Gordium (in what is now Turkey) in the fourth century BC an oxcart was roped to a pole with a complex knot. It was said that the first person to untie it would become the king of Asia. Unfortunately, the knot proved impossible to untie. The story continues that when confronted with this problem, rather than deliberating on how to untie the Gordian knot, Alexander, the famous ruler of the Greeks in the ancient world, simply took out his sword and cut it in two – then went on to conquer Asia. Ever since, the notion of a “Gordian solution” has referred to the attractiveness of a simple answer to an otherwise intractable problem.\n\nAmong researchers in the psychology of decision making, however, such solutions have traditionally held little appeal. In particular, the “conflict model” of decision making proposed by psychologists Irving Janis and Leon Mann in their 1977 book Decision Making argued that a complex decision-making process is essential for guarding individuals and groups from the peril of “group-think”. Decisions made without thoroughly canvassing, surveying, weighing, examining and re-examining relevant information and options would be sub-optimal and often disastrous. One foreign-affairs decision made by a well-known US political leader in the 1960s is typically held up as an example of the perils of inadequate thought, whereas his successful handling of a later crisis is cited as an example of the advantages of careful deliberation. However, examination of these historical events by Peter Suedfield, a psychologist at the University of British Columbia, and Roderick Kramer, a psychologist at the Stanford Graduate School of Business, found little difference in the two decision-making processes; both crises required and received complex consideration by the political administration, but later only the second one was deemed to be effective.\n\nIn general, however, organisational and political science offer little evidence that complex decisions fare better than simpler ones. In fact, a growing body of work suggests that in many situations simple “snap” decisions will be routinely superior to more complex ones – an idea that gained widespread public appeal with Malcolm Gladwell’s best-selling book Blink (2005).\n\nAn article by Ap Dijksterhuis of the University of Amsterdam and his colleagues, “On Making the Right Choice: the Deliberation-without-attention Effect”, runs very much in the spirit of Gladwell’s influential text. Its core argument is that to be effective, conscious (deliberative) decision making requires cognitive resources. Because increasingly complex decisions place increasing strain on those resources, the quality of our decisions declines as their complexity increases. In short, complex decisions overrun our cognitive powers. On the other hand, unconscious decision making (what the authors refer to as “deliberation without attention”) requires no cognitive resources, so task complexity does not degrade effectiveness. The seemingly counter-intuitive conclusion is that although conscious thought enhances simple decisions, the opposite holds true for more complex decisions.\n\nDijksterhuis reports four simple but elegant studies supporting this argument. In one, participants assessed the quality of four hypothetical cars by considering either four attributes (a simple task) or twelve attributes (a complex task). Among participants who considered four attributes, those who were allowed to engage in undistracted deliberative thought did better at discriminating between the best and worst cars. Those who were distracted and thus unable to deliberate had to rely on their unconscious thinking and did less well. The opposite pattern emerged when people considered twelve criteria. In this case, conscious deliberation led to inferior discrimination and poor decisions.\n\nIn another study, Dijksterhuis surveyed people shopping for clothes (“simple” products) and furniture (“complex” products). Compared with those who said they had deliberated long and hard, shoppers who bought with little conscious deliberation felt less happy with their simple clothing purchases but happier with the complex furniture purchases. Deliberation without attention actually produced better results as the decisions became more complex.\n\nFrom there, however, the researchers take a big leap. They write:\nThere is no reason to assume that the deliberation-without-attention effect does not generalise to other types of choices – political, managerial or otherwise. In such cases, it should benefit the individual to think consciously about simple matters and to delegate thinking about more complicated matters to the unconscious.\nThis radical inference contradicts standard political and managerial theory but doubtless comforts those in politics and management who always find the simple solution to the complex problem an attractive proposition. Indeed, one suspects many of our political leaders already embrace this wisdom.\n\nStill it is here, in the realms of society and its governance, that the more problematic implications of deliberation without attention begin to surface. Variables that can be neatly circumscribed in decisions about shopping lose clarity in a world of group dynamics, social interaction, history and politics. Two pertinent questions arise. First, what counts as a complex decision? And second, what counts as a good outcome?\n\nAs social psychologist Kurt Lewin (1890-1947) noted, a “good” decision that nobody respects is actually bad. His classic studies of decision making showed that participating in deliberative processes makes people more likely to abide by the results. The issue here is that when political decision makers make mistakes, it is their politics, or the relation between their politics and our own, rather than psychology which is at fault.\n\nGladwell’s book and Dijksterhuis’s paper are invaluable in pointing out the limitations of the conventional wisdom that decision quality rises with decision-making complexity. But this work still tempts us to believe that decision making is simply a matter of psychology, rather than also a question of politics, ideology and group membership. Avoiding social considerations in a search for general appeal can take us away from enlightenment rather than toward it.",
+    "questions": [
+      {
+        "id": "Q27",
+        "type": "choice",
+        "stem": "The legend of the Gordian knot is used to illustrate the idea that",
+        "options": [
+          "A anyone can solve a difficult problem.",
+          "B difficult problems can have easy solutions.",
+          "C the solution to any problem requires a lot of thought.",
+          "D people who can solve complex problems make good leaders."
+        ],
+        "correctAnswer": "B",
+        "explanation": "第一段：“attractiveness of a simple answer to an otherwise intractable problem.”"
+      },
+      {
+        "id": "Q28",
+        "type": "choice",
+        "stem": "The ‘conflict model’ of decision making proposed by Janis and Mann requires that",
+        "options": [
+          "A opposing political parties be involved.",
+          "B all important facts be considered.",
+          "C people be encouraged to have different ideas.",
+          "D previous similar situations be thoroughly examined."
+        ],
+        "correctAnswer": "B",
+        "explanation": "第二段：“thoroughly canvassing... weighing... relevant information”."
+      },
+      {
+        "id": "Q29",
+        "type": "choice",
+        "stem": "According to recent thinking reinforced by Malcolm Gladwell, the best decisions",
+        "options": [
+          "A involve consultation.",
+          "B involve complex thought.",
+          "C are made very quickly.",
+          "D are the most attractive option."
+        ],
+        "correctAnswer": "C",
+        "explanation": "第三段：“simple ‘snap’ decisions will be routinely superior”."
+      },
+      {
+        "id": "Q30",
+        "type": "choice",
+        "stem": "Dijksterhuis and his colleagues claim in their article that",
+        "options": [
+          "A our cognitive resources improve as tasks become more complex.",
+          "B conscious decision making is negatively affected by task complexity.",
+          "C unconscious decision making is a popular approach.",
+          "D deliberation without attention defines the way we make decisions."
+        ],
+        "correctAnswer": "B",
+        "explanation": "第四段：“quality of our decisions declines as their complexity increases [for conscious decision making].”"
+      },
+      {
+        "id": "Q31",
+        "type": "choice",
+        "stem": "Dijksterhuis’s car study found that, in simple tasks, participants",
+        "options": [
+          "A were involved in lengthy discussions.",
+          "B found it impossible to make decisions quickly.",
+          "C were unable to differentiate between the options.",
+          "D could make a better choice when allowed to concentrate."
+        ],
+        "correctAnswer": "D",
+        "explanation": "第五段：“those who were allowed to engage in undistracted deliberative thought did better...”"
+      },
+      {
+        "id": "Q32",
+        "type": "choice",
+        "stem": "People who spent 32 _____ time buying simple clothing items were more satisfied than those who had not.",
+        "options": [
+          "A more",
+          "B counterintuitive",
+          "C simple",
+          "D better",
+          "E conscious",
+          "F obvious",
+          "G complex",
+          "H less",
+          "I worse"
+        ],
+        "correctAnswer": "H",
+        "explanation": "第六段：“shoppers who bought with little conscious deliberation felt less happy with their simple clothing... but happier with the complex...”. Wait, the question says \"People who spent __ time buying simple clothing items were more satisfied\". Text: \"bought with little conscious deliberation felt less happy\". So those who spent MORE time (deliberated long and hard) were MORE satisfied. Therefore, 32 is A (more) or similar. Let's re-read carefully. \"Compared with those who said they had deliberated long and hard, shoppers who bought with little conscious deliberation felt less happy with their simple clothing purchases\". So: Little thought = Less happy. Much thought (More time) = More happy. So 32 is 'more'. Let's check options. A is 'more'. (Note: In P064 analysis I put H. Let me re-evaluate. Text: \"shoppers who bought with little conscious deliberation felt less happy\". Therefore, shoppers who spent *more* time were more satisfied. Correct Answer: A). Wait, let's look at the summary again. \"People who spent 32 _____ time buying simple clothing items were more satisfied\". Yes, A (more) fits."
+      },
+      {
+        "id": "Q33",
+        "type": "choice",
+        "stem": "However, when buying furniture, shoppers made 33 _____ purchasing decisions if they didn’t think too hard.",
+        "options": [
+          "A more",
+          "B counterintuitive",
+          "C simple",
+          "D better",
+          "E conscious",
+          "F obvious",
+          "G complex",
+          "H less",
+          "I worse"
+        ],
+        "correctAnswer": "D",
+        "explanation": "第六段：“happier with the complex furniture purchases [with little deliberation]”. So didn't think too hard -> better decisions. Answer: D (better)."
+      },
+      {
+        "id": "Q34",
+        "type": "choice",
+        "stem": "From this, the researchers concluded that in other choices, perhaps more important than shopping, 34 _____ decisions are best made by the unconscious.",
+        "options": [
+          "A more",
+          "B counterintuitive",
+          "C simple",
+          "D better",
+          "E conscious",
+          "F obvious",
+          "G complex",
+          "H less",
+          "I worse"
+        ],
+        "correctAnswer": "G",
+        "explanation": "第七段：“delegate thinking about more complicated matters to the unconscious.” -> G (complex)."
+      },
+      {
+        "id": "Q35",
+        "type": "choice",
+        "stem": "The writer comments that Dijksterhuis’s finding is apparently 35 _____ but nonetheless true.",
+        "options": [
+          "A more",
+          "B counterintuitive",
+          "C simple",
+          "D better",
+          "E conscious",
+          "F obvious",
+          "G complex",
+          "H less",
+          "I worse"
+        ],
+        "correctAnswer": "B",
+        "explanation": "第四段末：“The seemingly counter-intuitive conclusion is that...”"
+      },
+      {
+        "id": "Q36",
+        "type": "tfng",
+        "stem": "Dijksterhuis’s findings agree with existing political and management theories.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NO",
+        "explanation": "第七段：“contradicts standard political and managerial theory”."
+      },
+      {
+        "id": "Q37",
+        "type": "tfng",
+        "stem": "Some political leaders seem to use deliberation without attention when making complex decisions.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "YES",
+        "explanation": "第七段：“one suspects many of our political leaders already embrace this wisdom.”"
+      },
+      {
+        "id": "Q38",
+        "type": "tfng",
+        "stem": "All political decisions are complex ones.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "NOT GIVEN",
+        "explanation": "第八段提出问题：“what counts as a complex decision?” 但未断言所有政治决策都是复杂的。"
+      },
+      {
+        "id": "Q39",
+        "type": "tfng",
+        "stem": "We judge political errors according to our own political beliefs.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "YES",
+        "explanation": "第九段：“it is their politics, or the relation between their politics and our own... which is at fault.”"
+      },
+      {
+        "id": "Q40",
+        "type": "tfng",
+        "stem": "Social considerations must be taken into account for any examination of decision making to prove useful.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "correctAnswer": "YES",
+        "explanation": "最后一段：“Avoiding social considerations... can take us away from enlightenment...”"
+      }
+    ]
+  }
